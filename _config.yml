@@ -1,0 +1,30 @@
+# Setup
+title:            agile
+tagline:          Experience Matters
+description:      Sal Kabay, PhD.
+url:              http://emx-citizenaccount.rhcloud.com
+baseurl:          /
+
+name: Sal Kabay. Engineer, Architect, Developer.
+gems: [jekyll-paginate, jekyll-gist, pygments.rb]
+markdown: kramdown
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+timezone: Europe/London
+paginate: 4
+paginate_path: "blog/page:num"
+future: true
+
+# Permalinks
+relative_permalinks: false
+
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-56982264-1'
+tags:
+- General
+- Software
+- Digital
+- Property
+
