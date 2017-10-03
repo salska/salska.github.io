@@ -3,7 +3,7 @@ title:            agile
 tagline:          Experience Matters
 description:      Sal Kabay, PhD.
 url:              https://salska.github.io
-baseurl:          
+baseurl:          /
 
 name: Sal Kabay. Engineer, Architect, Developer.
 gems: [jekyll-paginate, jekyll-gist, pygments.rb]
