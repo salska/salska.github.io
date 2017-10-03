@@ -23,8 +23,6 @@ Well that's kind of true. The reality and horror stories of people who enthusias
 
 I was playing with [Archimate](http://www.archimatetool.com/) recently and created a model of the business functions and services that must be managed during a major property build project.
 
-![Cement Mixer]({{site.url}}/posts_images/2017-03-28-Property Development-02.png)
-
 ![Property Development Business Model]({{site.url}}/posts_images/2017-03-28--Property Development-01.png)
 
 I know from personal experience, how painful this process can become when a complex, expensive and challenging renovation unravels. The unpredictable and frequent issues stretched me physically, mentally and emotionally. The compounding effect of pressure due to time, budget and quality made me realise that I had taken on a mammoth task. Whether you play a small management and financing role or a more hands on involvement, the pressures can be severe.
