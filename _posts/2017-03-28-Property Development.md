@@ -23,6 +23,8 @@ Well that's kind of true. The reality and horror stories of people who enthusias
 
 I was playing with [Archimate](http://www.archimatetool.com/) recently and created a model of the business functions and services that must be managed during a major property build project.
 
+![Cement Mixer]({{site.url}}/posts_images/2017-03-28-Property Development-02.png)
+
 ![Property Development Business Model]({{site.url}}/posts_images/2017-03-28--Property Development-01.png)
 
 I know from personal experience, how painful this process can become when a complex, expensive and challenging renovation unravels. The unpredictable and frequent issues stretched me physically, mentally and emotionally. The compounding effect of pressure due to time, budget and quality made me realise that I had taken on a mammoth task. Whether you play a small management and financing role or a more hands on involvement, the pressures can be severe.
@@ -30,17 +32,14 @@ I know from personal experience, how painful this process can become when a comp
 The timing of this renovation was shortly after a challenging consultancy engagement. Due to personal circumstances I set myself an unbelievably difficult challenge: ***to complete the entirety of this personal project in 2 months from start to finish***.
 
 ***Rear shots taken when we viewed the house.***
-
 ![Before]({{site.url}}/posts_images/2017-03-28-Property Development-03a.png)
 
 ***Rear view after completion.***
-
 ![After]({{site.url}}/posts_images/2017-03-28-Property Development-03c.png)
 
 The sale of our current home at the time had concluded faster than anticiptaed and we agreed to the buyers' aggressive entry date. Two months - to purchase the new house, submit designs and plans for council planning and building warrant approval, engage contractors, demolish / remove and rebuild. The property had to be habitable for a young family and our furniture in 2 months! The business model depicted in the diagram above came to life with a vengeance and I was the fodder fueling the monster.
 
 ***During this time I became friends with a new orange friend!***
-
 ![Cement Mixer]({{site.url}}/posts_images/2017-03-28-Property Development-02.png)
 
 With the benefit of hindsight, I would have never started such a project. However, being enthusiastic and reasonably pragmatic, I rolled up my sleeves and jumped in. How wrong I was! This was tough. Not a sprint or a marathon. This was an ultra marathon with shackles tied to your ankles. This was the kind of character building that you wish on others. This beast required every ounce of grit and magical power before it would concede. 
