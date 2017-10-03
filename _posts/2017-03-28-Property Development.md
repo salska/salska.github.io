@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Property Development
+title: Property Development 
 author: Sal
 category: General
 tags:
