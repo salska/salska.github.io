@@ -7,7 +7,7 @@ title: News
 17th November 2017: RBS Website Migration to AEM 6.1 goes live.
 ```
 
-Several RBS brand websites serving Personal and Business customer segments in the UK and Ireland were migrated to AEM 6.1 strategic platform in just over 3 months. The Ulster Bank UK, Ulster Bank Ireland, RBS and NatWest Personal and Business franchise websites were successfully migrated using a large team of business and technology partners using a fully agile lifecycle to implement sprint based delivery of key digital journeys. Establishing a reguar cadence and velocity in a large atrix managed environment delivered key customer journeys across sales and service functions in record time.
+Several RBS brand websites serving Personal and Business customer segments in the UK and Ireland were migrated to AEM 6.1 strategic platform in just over 3 months. The Ulster Bank UK, Ulster Bank Ireland, RBS and NatWest Personal and Business franchise websites were successfully migrated using a large team of business and technology partners using a fully agile lifecycle to implement sprint based delivery of key digital journeys. Establishing a regular cadence and velocity in a large matrix managed environment delivered key customer journeys across sales and service functions in record time.
 
 
 ```
