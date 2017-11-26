@@ -4,7 +4,21 @@ title: News
 ---
 
 ```
-MyAccount signin service to mygovscot due to go live on 7th April 2014!
+17th November 2017: RBS Website Migration to AEM 6.1 goes live.
+```
+
+Several RBS brand websites serving Personal and Business customer segments in the UK and Ireland were migrated to AEM 6.1 strategic platform in just over 3 months. The Ulster Bank UK, Ulster Bank Ireland, RBS and NatWest Personal and Business franchise websites were successfully migrated using a large team of business and technology partners using a fully agile lifecycle to implement sprint based delivery of key digital journeys. Establishing a reguar cadence and velocity in a large atrix managed environment delivered key customer journeys across sales and service functions in record time.
+
+
+```
+10th October 2017: Adobe AEM Solution Partner
+```
+
+We are delighted to anniounce that eMetrix Consulting has been accepted as a Community AEM Solution Partner. A wealth of expertise and knowledge available to help our clients offer an exceptional Digital Experience and Journeys to their Customers.
+
+
+```
+7th April 2014: MyAccount signin service to mygovscot due to go live!
 ```
 
 Our latest project with the Improvement Service to refresh and renew a major national single sign on solution for Scotland is weeks away from go live. The old Citizen Account Service will be replaced with a newly branded MyAccount service will provide a [secure Signin Service](https://signin.mygovscot.org/home/). The Scottish Government owned domain name reinforces the trust and confidence for individuals to share their details in a safe and secure service that is backed by experts and specialists who have an uncompromising appetite for detail. This trust is integral to the brokerage role that we offer to individuals and service providers alike by verifying online access requests to a Scottish Government approved level of assurance.
