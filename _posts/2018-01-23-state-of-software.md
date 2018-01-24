@@ -10,7 +10,7 @@ summary: Are we there yet? How would you know?
 ---
 I have the good fortune to work with top companies whose leaders are passionate about transforming their applications and technologies to improve the quality and responsiveness of their business users to enhance the experience of their customers.
 
-What is the point of technology if it does not make life simpler, the journey smoother and faster for delivering services to customers in a reliable way? So why is it so common for top companies to invest so much resource and budget to consistently fail to such a simple objective?
+What is the point of technology if it does not make life simpler, the journey smoother and faster for delivering services to customers in a reliable way? So why is it so common for top companies to invest so much resource and budget to consistently fail at such a simple objective?
 
 The sad truth is that every project I join after the fact will be facing the daunting reality of missing it’s key objectives of budget, timescale and almost always compromise on quality. The reasons for such issues are always very obvious to me and can be usually attributed to poor leadership, lack of a disciplined methodology and supporting detailed plan. Poor teamwork and politics across silo departments and third party suppliers who are not managed to an appropriate commercial framework can also exacerbate the challenge.
 
