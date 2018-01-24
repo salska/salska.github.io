@@ -8,7 +8,7 @@ tags:
 - uml
 summary: Are we there yet? How would you know?
 ---
-I have the good fortune to work with top companies whose leaders are passionate about transforming their applications and technologies to improve the quality and responsiveness of their business users to enhance the experience of their customers.
+I have the good fortune to work with top companies whose leaders are passionate about transforming their applications and technologies to improve the quality and responsiveness of their business.
 
 What is the point of technology if it does not make life simpler, the journey smoother and faster for delivering services to customers in a reliable way? Why is it so common for top companies to invest so much resource and budget to consistently fail at such a simple objective?
 
