@@ -8,7 +8,9 @@ tags:
 - architecture
 summary: Getting it wrong.
 ---
-When you take a monolithic application and package it as a microservice that requires 64G of RAM - that is not a microservice! 
+![ADM Traceability]({{site.url}}/posts_images/2019-06-12-microservices-01.png)
+
+When you take a monolithic application and package it as a microservice that requires 64G of RAM - that is not a microservice!
 
 When a full end to end test of your microservice requires 4 cycles of testing over a period of 6 months - that is not a microservice! 
 
@@ -22,4 +24,4 @@ We also have no strategy, end to end design or meaningful business case.
 
 Would you be surprised to learn that the new system being delivered is comatose before a single user or transaction can be processed? 
 
-How could we end up producing a system that is more complex, inflexible and expensive than the original over-priced manage service that has been crippling the business for the last 10 years. 
+How could we end up producing a system that is more complex, inflexible and expensive than the original over-priced managed service that has been crippling the business for the last 10 years. 
