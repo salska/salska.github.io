@@ -10,13 +10,15 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BannerIdentifier</key>
-				<string>2E577E2A-5E9B-466F-8FA9-9FE9707A839F</string>
+				<string>12EC9D4E-765A-48BF-AA29-37A00AB21CD7</string>
 				<key>CreatedDate</key>
 				<date>2018-06-07T10:13:40Z</date>
 				<key>CustomThemeName</key>
 				<string>Future</string>
 				<key>ID</key>
 				<string>page1</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>Home</string>
 				<key>PluginClassName</key>
@@ -49,6 +51,32 @@
 								</data>
 								<key>Size</key>
 								<integer>6033</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page1</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>file:///Users/sal/Downloads/salska.github.io/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-09-18T12:10:19Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								jm909ZZ96jkI
+								jIOCLLC+DQ==
+								</data>
+								<key>Size</key>
+								<integer>5985</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
