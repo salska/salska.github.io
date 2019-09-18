@@ -1,51 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.emetrix.biz/index.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/index.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/index.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/about/about.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1000-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/about/files/adobe-muse-alternatives-for-mac.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1001-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/about/files/rapidweaver-8-coming-soon.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1002-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/about/files/archive-june-2018.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1003-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/case/case.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1004-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/case/files/adobe-muse-alternatives-for-mac.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/photos/files/page0-1005-full.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/case/files/rapidweaver-8-coming-soon.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/blog/index.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/case/files/archive-june-2018.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/blog/files/adobe-muse-alternatives-for-mac.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/news/news.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/blog/files/rapidweaver-8-coming-soon.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/news/files/adobe-muse-alternatives-for-mac.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 	<url>
-		<loc>http://www.emetrix.biz/blog/files/archive-june-2018.html</loc>
-		<lastmod>2019-09-17</lastmod>
+		<loc>https://www.emetrix.biz/news/files/rapidweaver-8-coming-soon.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-june-2018.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/contact/contact.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/contact/files/adobe-muse-alternatives-for-mac.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/contact/files/rapidweaver-8-coming-soon.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/contact/files/archive-june-2018.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/gallery.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1000-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1001-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1002-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1003-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1004-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/gallery/files/page0-1005-full.html</loc>
+		<lastmod>2019-09-18</lastmod>
 	</url>
 </urlset>
