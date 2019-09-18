@@ -91,18 +91,16 @@
 						<array>
 							<integer>1</integer>
 						</array>
-						<key>CustomPermalinkFilename</key>
-						<string>adobe-muse-alternatives-for-mac</string>
 						<key>GUID</key>
-						<string>86077401b0a4ab0f71142aee18b9a534</string>
+						<string>5e6e119d3ab23544ce692cd9501825ba</string>
 						<key>ID</key>
-						<integer>1</integer>
+						<integer>4</integer>
 						<key>Posted</key>
-						<date>2018-06-07T10:48:32Z</date>
+						<date>2014-04-07T13:37:25Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
 						<key>Title</key>
-						<string>Adobe Muse Alternative for Mac</string>
+						<string>MyAccount signin service to mygovscot due to go live!</string>
 						<key>openGraphDescription</key>
 						<string></string>
 						<key>openGraphImage</key>
@@ -115,18 +113,38 @@
 						<array>
 							<integer>1</integer>
 						</array>
-						<key>CustomPermalinkFilename</key>
-						<string>rapidweaver-8-coming-soon</string>
 						<key>GUID</key>
-						<string>13878e719a232dca03e7373ba5220754</string>
+						<string>ba7b370f30657cfc6dae614a1b4cdf59</string>
 						<key>ID</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>Posted</key>
-						<date>2018-06-07T10:45:51Z</date>
+						<date>2017-10-10T14:17:31Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
 						<key>Title</key>
-						<string>RapidWeaver 8 is Coming Soon.</string>
+						<string>Adobe AEM Solution Partner</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>277340c36d4b47e89a86ffd2c90acbc3</string>
+						<key>ID</key>
+						<integer>2</integer>
+						<key>Posted</key>
+						<date>2017-11-17T09:13:09Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>RBS Website Migration to AEM 6.1 goes live</string>
 						<key>openGraphDescription</key>
 						<string></string>
 						<key>openGraphImage</key>
@@ -140,9 +158,9 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2018-06-07T10:45:08Z</date>
+				<date>2019-09-18T17:46:48Z</date>
 				<key>LastID</key>
-				<integer>2</integer>
+				<integer>5</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2018-06-07T10:45:08Z</date>
 				<key>NumberOfFrontPagePosts</key>
@@ -186,6 +204,8 @@
 				<string>1-Summary.as</string>
 				<string>2-Body.as</string>
 				<string>2-Summary.as</string>
+				<string>3-Body.as</string>
+				<string>3-Summary.as</string>
 			</array>
 			<key>Subsandwiches</key>
 			<array/>

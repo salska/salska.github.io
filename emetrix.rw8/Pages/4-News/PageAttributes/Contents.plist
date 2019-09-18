@@ -16,7 +16,7 @@
 					<key>file:///Users/ben/Sites/untitled%20folder/</key>
 					<true/>
 					<key>file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<false/>
+					<true/>
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<false/>
 				</dict>
@@ -24,32 +24,17 @@
 				<dict>
 					<key>Artful</key>
 					<dict/>
-					<key>Mountains</key>
+					<key>Climate</key>
+					<dict/>
+					<key>Engineer</key>
+					<dict/>
+					<key>Future</key>
 					<dict>
-						<key>%colour_banner_overlay%</key>
-						<string>rgba(18,13,5,0.75)</string>
+						<key>%colour_headings%</key>
+						<string>rgba(233,124,117,1.00)</string>
 					</dict>
 					<key>Portfolio</key>
-					<dict>
-						<key>%colour_body_bg%</key>
-						<string>rgba(25,26,23,1.00)</string>
-						<key>%colour_body_text%</key>
-						<string>rgba(255,255,255,1.00)</string>
-						<key>%colour_footer_bg%</key>
-						<string>rgba(28,29,26,1.00)</string>
-						<key>%colour_footer_text%</key>
-						<string>rgba(255,255,255,0.75)</string>
-						<key>%colour_headings%</key>
-						<string>rgba(255,255,255,1.00)</string>
-						<key>%colour_headings_em%</key>
-						<string>rgba(255,255,255,0.50)</string>
-						<key>%colour_nav_bg%</key>
-						<string>rgba(255,255,255,1.00)</string>
-						<key>%colour_nav_link%</key>
-						<string>rgba(59,62,66,1.00)</string>
-						<key>%colour_primary%</key>
-						<string>rgba(253,187,92,1.00)</string>
-					</dict>
+					<dict/>
 				</dict>
 				<key>CreditRapidWeaver</key>
 				<true/>
@@ -68,7 +53,7 @@
 				<key>FolderName</key>
 				<string>news</string>
 				<key>HasCustomThemeStyle</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
@@ -90,36 +75,47 @@
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>SidebarTitle</key>
-				<string>Blog Archives</string>
+				<string>Archives</string>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
 				<key>ThemeStyles</key>
 				<dict>
-					<key>Mountains</key>
-					<array>
-						<string>Banner.Saturate</string>
-						<string>Content Width.Pixels</string>
-					</array>
-					<key>Portfolio</key>
+					<key>Artful</key>
 					<array>
 						<string>Banner Background.None</string>
-						<string>Banner.Hide</string>
 						<string>Banner.Uppercase Title</string>
 						<string>Content Width.Pixels</string>
 						<string>Headings.Uppercase</string>
 						<string>Navigation.Logo</string>
-						<string>Navigation.Site Title</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+					<key>Future</key>
+					<array>
+						<string>Banner.Brightness</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Show Dividers</string>
+						<string>Navigation.Logo</string>
+					</array>
+					<key>Portfolio</key>
+					<array>
+						<string>Banner Background.None</string>
+						<string>Banner.Uppercase Title</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
 						<string>Navigation.Uppercase Links</string>
 					</array>
 				</dict>
 				<key>Variables</key>
 				<dict>
 					<key>%body_font_size%</key>
-					<string>20</string>
+					<string>18</string>
 					<key>%content_width%</key>
 					<string>12</string>
+					<key>%headings_divider_width%</key>
+					<string>150</string>
 					<key>%sidebar_width%</key>
 					<string>12</string>
 				</dict>

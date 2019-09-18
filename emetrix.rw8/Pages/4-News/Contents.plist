@@ -13,10 +13,10 @@
 				<string>8048275B-7470-48F3-82F2-FC0CE7420DF1</string>
 				<key>CreatedDate</key>
 				<date>2018-06-07T10:45:08Z</date>
+				<key>CustomThemeName</key>
+				<string>Future</string>
 				<key>ID</key>
 				<string>page4</string>
-				<key>MostRecentlySelectedStyleName</key>
-				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>News</string>
 				<key>PluginClassName</key>
@@ -141,100 +141,100 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T12:10:19Z</date>
+						<date>2019-09-18T17:47:47Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
+							<key>files/277340c36d4b47e89a86ffd2c90acbc3-2.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OEnpt9dcuzbY
-								Ah0c+O8Uig==
+								wu1VhOQZYpgH
+								CwY/cq4kcQ==
 								</data>
 								<key>Size</key>
-								<integer>9416</integer>
+								<integer>8677</integer>
 							</dict>
-							<key>files/archive-june-2018.html</key>
+							<key>files/5e6e119d3ab23544ce692cd9501825ba-4.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								eEUHt3AmPkFc
-								wYmD01QFaQ==
+								8tN3KV4FAenV
+								5YLWElxXTQ==
 								</data>
 								<key>Size</key>
-								<integer>6707</integer>
+								<integer>14601</integer>
+							</dict>
+							<key>files/archive-april-2014.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/iLcx9fBPFhM
+								AyiXfMi2Cw==
+								</data>
+								<key>Size</key>
+								<integer>8595</integer>
+							</dict>
+							<key>files/archive-november-2017.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UzqY1baCvctg
+								SD9WmmGfNg==
+								</data>
+								<key>Size</key>
+								<integer>8585</integer>
+							</dict>
+							<key>files/archive-october-2017.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								QNnkcNSkuy8z
+								4urcXV9kPw==
+								</data>
+								<key>Size</key>
+								<integer>8669</integer>
+							</dict>
+							<key>files/ba7b370f30657cfc6dae614a1b4cdf59-3.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								6qcHzHpO+kIN
+								udQ6HbG3Lw==
+								</data>
+								<key>Size</key>
+								<integer>8592</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								cC0ByDClvzwN
-								MBUa9+lrlw==
+								5W6s1lEi71xc
+								kAgBVX1Ylw==
 								</data>
 								<key>Size</key>
-								<integer>2236</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
+								<integer>2804</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
+								+M0RtJntVOmm
+								0v1vYGEfcA==
 								</data>
 								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tTwCiUV4FKhz
-								S/MgqcHRww==
-								</data>
-								<key>Size</key>
-								<integer>7429</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
+								<integer>2276</integer>
 							</dict>
 							<key>news.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								iIb86+pLdgrb
-								DgftXQayEQ==
+								Q0ahnAcWvmji
+								IPOKacnCog==
 								</data>
 								<key>Size</key>
-								<integer>6352</integer>
+								<integer>9449</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

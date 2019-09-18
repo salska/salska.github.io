@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"adobe-muse-alternatives-for-mac.html":"As you probably already know, Adobe is discontinuing development of Muse after just eight short years. Understandably users are not happy and are look","rapidweaver-8-coming-soon.html":"I know it's been a while since the last RapidWeaver 7 update, and there's a good reason for that… It's because we've been heads down working away on R","archive-june-2018.html":"Archives for June 2018"};
+	var websiteMeta = {"archive-october-2017.html":"Archives for October 2017","archive-april-2014.html":"Archives for April 2014","archive-november-2017.html":"Archives for November 2017","ba7b370f30657cfc6dae614a1b4cdf59-3.html":"Adobe AEM Solution Partner. We are delighted to announce that eMetrix Consulting has been accepted as a Community AEM Solution Partner. A wealth of ex","277340c36d4b47e89a86ffd2c90acbc3-2.html":"RBS Website Migration to AEM 6.1 goes live. Several RBS brand websites serving Personal and Business customer segments in the UK and Ireland were migr","5e6e119d3ab23544ce692cd9501825ba-4.html":"MyAccount signin service to mygovscot due to go live! Our latest project with the Improvement Service to refresh and renew a major national single sig"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
