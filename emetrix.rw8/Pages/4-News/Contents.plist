@@ -17,6 +17,8 @@
 				<string>Future</string>
 				<key>ID</key>
 				<string>page4</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>News</string>
 				<key>PluginClassName</key>
