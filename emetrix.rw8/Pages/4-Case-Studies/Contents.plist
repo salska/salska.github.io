@@ -10,15 +10,15 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BannerIdentifier</key>
-				<string>7F819E56-6293-485A-965D-2EE572D5E322</string>
+				<string>5000328A-8456-473B-88A6-B2DDDF25316E</string>
 				<key>CreatedDate</key>
 				<date>2018-06-07T10:45:08Z</date>
 				<key>ID</key>
-				<string>page5</string>
+				<string>page2</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Contact</string>
+				<string>Case Studies</string>
 				<key>PluginClassName</key>
 				<string>RWBlogPlugin</string>
 				<key>PluginMetadata</key>
@@ -40,45 +40,45 @@
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>contact.html</key>
+							<key>case.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ofVdyBIWK07U
-								GQKxh3pg2w==
+								MJkYFiJvioXb
+								zCMaNKcGRw==
 								</data>
 								<key>Size</key>
-								<integer>6380</integer>
+								<integer>6403</integer>
 							</dict>
 							<key>files/adobe-muse-alternatives-for-mac.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OkHnk07LF3an
-								y67tcWK0TA==
+								OauB4zgVSUEt
+								xkwDeYtUeQ==
 								</data>
 								<key>Size</key>
-								<integer>9432</integer>
+								<integer>9451</integer>
 							</dict>
 							<key>files/archive-june-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								vjKjixWwgBYI
-								A/owXEjshA==
+								BmHKCOLS4EYY
+								eQ4STnqDLg==
 								</data>
 								<key>Size</key>
-								<integer>6735</integer>
+								<integer>6766</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
+								ZY7cWtu3FOXD
+								5DXTyzhQyg==
 								</data>
 								<key>Size</key>
-								<integer>2254</integer>
+								<integer>2252</integer>
 							</dict>
 							<key>files/health-check.jpg</key>
 							<dict>
@@ -104,11 +104,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								p6cgEPbeJSCx
-								AXL68w/GnA==
+								2TCIh3LW/u96
+								WqyqNmDLxg==
 								</data>
 								<key>Size</key>
-								<integer>7445</integer>
+								<integer>7464</integer>
 							</dict>
 							<key>files/rapidweaver-8.png</key>
 							<dict>
@@ -132,59 +132,59 @@
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page5</string>
+						<string>page2</string>
 						<key>SiteRoot</key>
-						<string>contact</string>
+						<string>case</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T17:47:47Z</date>
+						<date>2019-09-18T20:10:31Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>contact.html</key>
+							<key>case.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ofVdyBIWK07U
-								GQKxh3pg2w==
+								gamDjtbZvNCL
+								p9FB5T/fww==
 								</data>
 								<key>Size</key>
-								<integer>6380</integer>
+								<integer>6561</integer>
 							</dict>
 							<key>files/adobe-muse-alternatives-for-mac.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OkHnk07LF3an
-								y67tcWK0TA==
+								R5Abtmq//rDk
+								ojb/dyNumg==
 								</data>
 								<key>Size</key>
-								<integer>9432</integer>
+								<integer>9615</integer>
 							</dict>
 							<key>files/archive-june-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								vjKjixWwgBYI
-								A/owXEjshA==
+								MbilckIIxWyZ
+								OZX3Rg3XMw==
 								</data>
 								<key>Size</key>
-								<integer>6735</integer>
+								<integer>6930</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
+								ZY7cWtu3FOXD
+								5DXTyzhQyg==
 								</data>
 								<key>Size</key>
-								<integer>2254</integer>
+								<integer>2252</integer>
 							</dict>
 							<key>files/health-check.jpg</key>
 							<dict>
@@ -210,11 +210,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								p6cgEPbeJSCx
-								AXL68w/GnA==
+								WHVkdm8oKv6K
+								5Cth1Mv0vQ==
 								</data>
 								<key>Size</key>
-								<integer>7445</integer>
+								<integer>7628</integer>
 							</dict>
 							<key>files/rapidweaver-8.png</key>
 							<dict>
@@ -238,9 +238,9 @@
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page5</string>
+						<string>page2</string>
 						<key>SiteRoot</key>
-						<string>contact</string>
+						<string>case</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

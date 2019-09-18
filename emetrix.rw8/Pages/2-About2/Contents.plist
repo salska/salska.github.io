@@ -18,7 +18,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>About</string>
+				<string>About2</string>
 				<key>PluginClassName</key>
 				<string>RWBlogPlugin</string>
 				<key>PluginMetadata</key>
@@ -141,7 +141,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T17:47:47Z</date>
+						<date>2019-09-18T20:10:31Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -150,41 +150,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								RFv8deNDtGr+
-								pSkwOZ8njg==
+								FUPVaZ9shuJM
+								yRb2H+188w==
 								</data>
 								<key>Size</key>
-								<integer>6323</integer>
+								<integer>6484</integer>
 							</dict>
 							<key>files/adobe-muse-alternatives-for-mac.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								SiHrOIoD4v4Y
-								1MnvkVxHuQ==
+								4G6hngpdmLIx
+								mbZGlkb2lg==
 								</data>
 								<key>Size</key>
-								<integer>9383</integer>
+								<integer>9548</integer>
 							</dict>
 							<key>files/archive-june-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								M0nd89jEWL30
-								zcVXfV8KcA==
+								qrsgNbiZhAMa
+								NE9LlZW9pQ==
 								</data>
 								<key>Size</key>
-								<integer>6678</integer>
+								<integer>6846</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								pmwGiKSDczb2
-								aWVZ4+Mnnw==
+								qW6OQk6lx4rf
+								jdY+8F2jPA==
 								</data>
 								<key>Size</key>
-								<integer>2242</integer>
+								<integer>2244</integer>
 							</dict>
 							<key>files/health-check.jpg</key>
 							<dict>
@@ -210,11 +210,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kJ3qOAiNb2BH
-								UXzEu05JhQ==
+								+jPeXk2FeW8P
+								Bh6npwQV2g==
 								</data>
 								<key>Size</key>
-								<integer>7396</integer>
+								<integer>7561</integer>
 							</dict>
 							<key>files/rapidweaver-8.png</key>
 							<dict>

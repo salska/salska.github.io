@@ -65,6 +65,7 @@
 					<array>
 						<string>Banner.Brightness</string>
 						<string>Content Width.Pixels</string>
+						<string>Headings.Center Aligned</string>
 						<string>Headings.Show Dividers</string>
 						<string>Navigation.Logo</string>
 					</array>

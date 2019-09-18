@@ -12,7 +12,9 @@
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
-			<array/>
+			<array>
+				<string>YHStacksPlugin</string>
+			</array>
 		</dict>
 	</array>
 	<key>Type</key>
