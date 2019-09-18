@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/ben/Sites/untitled%20folder/</key>
+					<true/>
+					<key>file:///Users/sal/Downloads/salska.github.io-master/</key>
+					<false/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Artful</key>
+					<dict/>
+					<key>Climate</key>
+					<dict/>
+					<key>Engineer</key>
+					<dict/>
+					<key>Future</key>
+					<dict/>
+					<key>Portfolio</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitle</key>
+				<string>Next big thing?</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSlogan</key>
+				<string>Let us help</string>
+				<key>CustomSloganUsed</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>markdown</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string></string>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Artful</key>
+					<array>
+						<string>Banner Background.None</string>
+						<string>Banner.Uppercase Title</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+					<key>Future</key>
+					<array>
+						<string>Banner.Brightness</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Show Dividers</string>
+						<string>Navigation.Logo</string>
+					</array>
+					<key>Portfolio</key>
+					<array>
+						<string>Banner Background.None</string>
+						<string>Banner.Uppercase Title</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%banner_filter_amount%</key>
+					<string>100</string>
+					<key>%banner_overlap_angle%</key>
+					<string>-6</string>
+					<key>%body_font_size%</key>
+					<string>17</string>
+					<key>%content_width%</key>
+					<string>6</string>
+					<key>%headings_divider_width%</key>
+					<string>125</string>
+					<key>%sidebar_width%</key>
+					<string>6</string>
+					<key>%site_width%</key>
+					<string>960</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
