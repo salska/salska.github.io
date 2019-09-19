@@ -79,7 +79,7 @@
 				<key>SidebarEnabled</key>
 				<integer>0</integer>
 				<key>SidebarTitle</key>
-				<string>Archives</string>
+				<string>Filter</string>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
 				<key>ThemeStyles</key>
