@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>ArchivePostsEnabled</key>
-				<true/>
+				<false/>
 				<key>ArchivePostsPeriod</key>
 				<integer>1</integer>
 				<key>ArchivePostsShowGaps</key>
@@ -21,29 +21,47 @@
 						<key>ID</key>
 						<integer>2</integer>
 						<key>Name</key>
-						<string>Personal</string>
-					</dict>
-					<dict>
-						<key>ID</key>
-						<integer>3</integer>
-						<key>Name</key>
-						<string>Work</string>
+						<string>AEM</string>
 					</dict>
 					<dict>
 						<key>ID</key>
 						<integer>4</integer>
 						<key>Name</key>
-						<string>Humor</string>
+						<string>Camunda</string>
 					</dict>
 					<dict>
 						<key>ID</key>
-						<integer>5</integer>
+						<integer>7</integer>
 						<key>Name</key>
-						<string>Apple</string>
+						<string>Banking</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>8</integer>
+						<key>Name</key>
+						<string>Asset Manager</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>9</integer>
+						<key>Name</key>
+						<string>Insurance</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>10</integer>
+						<key>Name</key>
+						<string>Public Sector</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>11</integer>
+						<key>Name</key>
+						<string>Healthcare</string>
 					</dict>
 				</array>
 				<key>CategoriesEnabled</key>
-				<false/>
+				<true/>
 				<key>CategoriesSeparatorText</key>
 				<string> | </string>
 				<key>CategoriesTitleText</key>
@@ -89,7 +107,8 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
-							<integer>1</integer>
+							<integer>10</integer>
+							<integer>11</integer>
 						</array>
 						<key>GUID</key>
 						<string>5e6e119d3ab23544ce692cd9501825ba</string>
@@ -99,6 +118,14 @@
 						<date>2014-04-07T13:37:25Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>Data Migration</string>
+							<string>Cloud</string>
+							<string>Digital</string>
+							<string>Security</string>
+							<string>SSO</string>
+						</array>
 						<key>Title</key>
 						<string>MyAccount signin service to mygovscot due to go live!</string>
 						<key>openGraphDescription</key>
@@ -111,7 +138,7 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
-							<integer>1</integer>
+							<integer>2</integer>
 						</array>
 						<key>GUID</key>
 						<string>ba7b370f30657cfc6dae614a1b4cdf59</string>
@@ -121,6 +148,11 @@
 						<date>2017-10-10T14:17:31Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>Solution Partner</string>
+							<string>Adobe</string>
+						</array>
 						<key>Title</key>
 						<string>Adobe AEM Solution Partner</string>
 						<key>openGraphDescription</key>
@@ -133,7 +165,8 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
-							<integer>1</integer>
+							<integer>7</integer>
+							<integer>2</integer>
 						</array>
 						<key>GUID</key>
 						<string>277340c36d4b47e89a86ffd2c90acbc3</string>
@@ -143,6 +176,12 @@
 						<date>2017-11-17T09:13:09Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>Data Migration</string>
+							<string>Cloud</string>
+							<string>Digital</string>
+						</array>
 						<key>Title</key>
 						<string>RBS Website Migration to AEM 6.1 goes live</string>
 						<key>openGraphDescription</key>
@@ -158,7 +197,7 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2018-06-07T10:45:08Z</date>
+				<date>2019-09-19T18:56:26Z</date>
 				<key>LastID</key>
 				<integer>5</integer>
 				<key>LastSavedBuildDate</key>
@@ -182,7 +221,7 @@
 				<key>ReadMoreText</key>
 				<string> Read More…</string>
 				<key>ShowCategoryPostCounts</key>
-				<false/>
+				<true/>
 				<key>ShowTagPostCounts</key>
 				<false/>
 				<key>SortedCategoryExport</key>
@@ -190,7 +229,7 @@
 				<key>TagCloudEnabled</key>
 				<true/>
 				<key>TagsEnabled</key>
-				<false/>
+				<true/>
 				<key>TagsSeparatorText</key>
 				<string>, </string>
 				<key>TagsTitleText</key>

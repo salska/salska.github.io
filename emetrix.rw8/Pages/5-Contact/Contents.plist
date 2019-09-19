@@ -12,57 +12,67 @@
 				<key>BannerIdentifier</key>
 				<string>7F819E56-6293-485A-965D-2EE572D5E322</string>
 				<key>CreatedDate</key>
-				<date>2019-09-19T17:59:37Z</date>
+				<date>2019-09-19T18:12:31Z</date>
 				<key>ID</key>
-				<string>page3</string>
+				<string>page5</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>Contact</string>
 				<key>PluginClassName</key>
-				<string>RWContactFormPlugin</string>
+				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
-					<string>Realmac Software</string>
+					<string>YourHead Software</string>
 					<key>Name</key>
-					<string>Contact Form</string>
+					<string>Stacks</string>
 					<key>Version</key>
-					<string>7.0</string>
+					<string>3.6.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T18:10:04Z</date>
+						<date>2019-09-19T18:41:01Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>contact.php</key>
+							<key>contact.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								JQtbmQa1XoLb
-								9Dt6qgbCKA==
+								hhoF+cWCgF7X
+								gjCmYN9WOQ==
 								</data>
 								<key>Size</key>
-								<integer>7029</integer>
+								<integer>6260</integer>
 							</dict>
-							<key>files/mailer.php</key>
+							<key>files/stacks_page_page5.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Yuy3KExgyEEj
-								i9A9cfqN1Q==
+								gETpRBZ6rLzf
+								VucrdHONbA==
 								</data>
 								<key>Size</key>
-								<integer>8977</integer>
+								<integer>123</integer>
+							</dict>
+							<key>files/stacks_page_page5.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page3</string>
+						<string>page5</string>
 						<key>SiteRoot</key>
 						<string>contact</string>
 						<key>Version</key>

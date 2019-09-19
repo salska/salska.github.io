@@ -43,11 +43,11 @@
 				<key>ImageQuality</key>
 				<string>High</string>
 				<key>IndexFilename</key>
-				<string>contact.php</string>
+				<string>contact.html</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
-				<string>php</string>
+				<string>html</string>
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>
