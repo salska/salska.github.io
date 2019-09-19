@@ -27,7 +27,7 @@
 				<key>CustomSiteTitleUsed</key>
 				<true/>
 				<key>CustomSlogan</key>
-				<string>Let's be outstanding</string>
+				<string>be outstanding</string>
 				<key>CustomSloganUsed</key>
 				<true/>
 				<key>DefaultLinkTarget</key>
@@ -35,7 +35,7 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>page</string>
+				<string>about</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>ImageFormat</key>
@@ -43,7 +43,7 @@
 				<key>ImageQuality</key>
 				<string>High</string>
 				<key>IndexFilename</key>
-				<string>index.html</string>
+				<string>about.html</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>

@@ -36,6 +36,8 @@
 				<string>Photos</string>
 				<key>CustomSiteTitleUsed</key>
 				<true/>
+				<key>CustomSlogan</key>
+				<string>be inspired</string>
 				<key>CustomSloganUsed</key>
 				<true/>
 				<key>DefaultLinkTarget</key>

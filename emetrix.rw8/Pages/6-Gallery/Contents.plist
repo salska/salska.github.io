@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BannerIdentifier</key>
+				<string>023EF3E4-F41E-4C5A-84E7-1E8A0BBED622</string>
 				<key>CreatedDate</key>
 				<date>2018-06-07T10:54:32Z</date>
 				<key>ID</key>
@@ -239,7 +241,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T20:12:43Z</date>
+						<date>2019-09-19T11:23:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -248,11 +250,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								KW5lJwKTiJo+
-								5XHeUV+lqw==
+								ExGqN+kSY4Ih
+								y3oS9tMIfw==
 								</data>
 								<key>Size</key>
-								<integer>950</integer>
+								<integer>874</integer>
 							</dict>
 							<key>files/page0-1000-full.jpg</key>
 							<dict>
@@ -278,11 +280,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MXzaTfODsef9
-								WIuTvdjIaQ==
+								A/fQpQXcXebJ
+								btOZ1dIYWQ==
 								</data>
 								<key>Size</key>
-								<integer>994</integer>
+								<integer>920</integer>
 							</dict>
 							<key>files/page0-1001-full.jpg</key>
 							<dict>
@@ -308,11 +310,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								YRU/8vjgn+Ms
-								CaavHyFu1A==
+								4Up2RpsFf7dJ
+								38QCiRE/7A==
 								</data>
 								<key>Size</key>
-								<integer>990</integer>
+								<integer>920</integer>
 							</dict>
 							<key>files/page0-1002-full.jpg</key>
 							<dict>
@@ -338,11 +340,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0tduFqZpV44U
-								g074j+udGQ==
+								DP3MxNcNG3vB
+								94E2dyIK0Q==
 								</data>
 								<key>Size</key>
-								<integer>988</integer>
+								<integer>920</integer>
 							</dict>
 							<key>files/page0-1003-full.jpg</key>
 							<dict>
@@ -368,11 +370,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								enoVxB5JGkn3
-								LJttvSrFfg==
+								C6DD285yN6ef
+								lUzLBCJlTQ==
 								</data>
 								<key>Size</key>
-								<integer>982</integer>
+								<integer>920</integer>
 							</dict>
 							<key>files/page0-1004-full.jpg</key>
 							<dict>
@@ -398,11 +400,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								EGn3vcahCfXi
-								kv6ZaZpZqQ==
+								L1MOQRzZHwvf
+								cG/V0ItHrg==
 								</data>
 								<key>Size</key>
-								<integer>940</integer>
+								<integer>878</integer>
 							</dict>
 							<key>files/page0-1005-full.jpg</key>
 							<dict>
@@ -428,11 +430,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								hZco+qRJ5Sw4
-								lZG1MobV7w==
+								MSM2UvdDd1J6
+								cwcEjt0y+Q==
 								</data>
 								<key>Size</key>
-								<integer>6772</integer>
+								<integer>6390</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

@@ -39,7 +39,7 @@
 				<key>HTMLSlideshowSettings</key>
 				<dict>
 					<key>CaptionsDisplayMode</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>EXIFTagsShown</key>
 					<array>
 						<string>ExposureTime</string>
@@ -84,7 +84,7 @@
 					<key>CustomAlbum</key>
 					<dict>
 						<key>Description</key>
-						<string>Here's a gallery of images from the amazing Unsplash.</string>
+						<string>See a selection of our customer engagements.</string>
 						<key>Images</key>
 						<array>
 							<dict>
@@ -161,7 +161,7 @@
 							</dict>
 						</array>
 						<key>Name</key>
-						<string>Unsplash Gallery</string>
+						<string>Client Gallery</string>
 					</dict>
 				</dict>
 				<key>SlideshowMode</key>

@@ -44,6 +44,8 @@
 				<string>Latest News</string>
 				<key>CustomSiteTitleUsed</key>
 				<true/>
+				<key>CustomSlogan</key>
+				<string>what we do</string>
 				<key>CustomSloganUsed</key>
 				<true/>
 				<key>DefaultLinkTarget</key>
