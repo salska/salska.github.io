@@ -1,28 +1,32 @@
 
+#stacks_in_2_page6 {
+	margin: 40px 0px 40px 0px;
+}
+
 #stacks_in_3_page6 {
 	font-size: 168%;
 	font-weight: bold;
 }
-#stacks_in_4_page6>.s3_row {
+#stacks_in_102_page6>.s3_row {
 	margin: 0 -10px;
 }
 
-#stacks_in_4_page6>.s3_row>.s3_column_left {
+#stacks_in_102_page6>.s3_row>.s3_column_left {
 	width: 33.33%;
 }
 
-#stacks_in_4_page6>.s3_row>.s3_column_center {
+#stacks_in_102_page6>.s3_row>.s3_column_center {
 	width: 33.339996%;
 }
 
-#stacks_in_4_page6>.s3_row>.s3_column_right {
+#stacks_in_102_page6>.s3_row>.s3_column_right {
 	width: 33.33%;
 }
 
 
 
 
-#stacks_in_4_page6>.s3_row>.s3_column {
+#stacks_in_102_page6>.s3_row>.s3_column {
 	padding: 0 10px;
 }
 
@@ -47,10 +51,10 @@
 @media only screen and (max-width: 400px) {
 
 
-	#stacks_in_4_page6>.s3_row  {
+	#stacks_in_102_page6>.s3_row  {
 		margin: -10px 0;
 	}
-	#stacks_in_4_page6>.s3_row>.s3_column {
+	#stacks_in_102_page6>.s3_row>.s3_column {
 		padding: 10px 0;
 		width:100%;
 	}
@@ -63,19 +67,8 @@
 
 
 
-#stacks_in_97_page6 {
-	font-size: 168%;
-	font-weight: bold;
-}
-
-#stacks_in_99_page6 {
-	font-size: 168%;
-	font-weight: bold;
-}
-
-#stacks_in_101_page6 {
-	font-size: 168%;
-	font-weight: bold;
+#stacks_in_102_page6 {
+	margin: 0px 0px 40px 0px;
 }
 
 #stacks_in_18_page6 {

@@ -35,7 +35,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:45:47Z</date>
+						<date>2019-09-19T17:09:54Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5KDeKCD4c4aS
-								oEH3nqdXGg==
+								DtfWNANcFy9X
+								avKCjotZtw==
 								</data>
 								<key>Size</key>
-								<integer>9283</integer>
+								<integer>9712</integer>
 							</dict>
 							<key>files/stacks-image-0046646.png</key>
 							<dict>
@@ -60,6 +60,16 @@
 								<key>Size</key>
 								<integer>22589</integer>
 							</dict>
+							<key>files/stacks-image-09c93d2-118x110.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Otiraa0U73O8
+								gTLhWSjGEw==
+								</data>
+								<key>Size</key>
+								<integer>7692</integer>
+							</dict>
 							<key>files/stacks-image-0ce6c0b.png</key>
 							<dict>
 								<key>Digest</key>
@@ -69,6 +79,16 @@
 								</data>
 								<key>Size</key>
 								<integer>32263</integer>
+							</dict>
+							<key>files/stacks-image-1d5b32d-118x110.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								7g5qGcawDVR9
+								s4wEmD3A7A==
+								</data>
+								<key>Size</key>
+								<integer>9632</integer>
 							</dict>
 							<key>files/stacks-image-2054016.png</key>
 							<dict>
@@ -90,15 +110,25 @@
 								<key>Size</key>
 								<integer>2062</integer>
 							</dict>
+							<key>files/stacks-image-e71ec80-118x110.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								AOQqfABi+hYz
+								mbc2VGVEsw==
+								</data>
+								<key>Size</key>
+								<integer>8497</integer>
+							</dict>
 							<key>files/stacks_page_page6.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								33BJO77EjMIp
-								jqJB0I57iQ==
+								YffnOt0YUoXs
+								mdYbhK52BQ==
 								</data>
 								<key>Size</key>
-								<integer>1514</integer>
+								<integer>1443</integer>
 							</dict>
 							<key>files/stacks_page_page6.js</key>
 							<dict>
