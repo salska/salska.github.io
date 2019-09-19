@@ -12,233 +12,57 @@
 				<key>BannerIdentifier</key>
 				<string>7F819E56-6293-485A-965D-2EE572D5E322</string>
 				<key>CreatedDate</key>
-				<date>2018-06-07T10:45:08Z</date>
+				<date>2019-09-19T17:59:37Z</date>
 				<key>ID</key>
-				<string>page5</string>
+				<string>page3</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>Contact</string>
 				<key>PluginClassName</key>
-				<string>RWBlogPlugin</string>
+				<string>RWContactFormPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
 					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Blog</string>
+					<string>Contact Form</string>
 					<key>Version</key>
 					<string>7.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>contact.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ofVdyBIWK07U
-								GQKxh3pg2w==
-								</data>
-								<key>Size</key>
-								<integer>6380</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OkHnk07LF3an
-								y67tcWK0TA==
-								</data>
-								<key>Size</key>
-								<integer>9432</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								vjKjixWwgBYI
-								A/owXEjshA==
-								</data>
-								<key>Size</key>
-								<integer>6735</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
-								</data>
-								<key>Size</key>
-								<integer>2254</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								p6cgEPbeJSCx
-								AXL68w/GnA==
-								</data>
-								<key>Size</key>
-								<integer>7445</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page5</string>
-						<key>SiteRoot</key>
-						<string>contact</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>contact.html</key>
+							<key>contact.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								4S4xdIVzWuFe
-								H48JTNtc/Q==
+								JQtbmQa1XoLb
+								9Dt6qgbCKA==
 								</data>
 								<key>Size</key>
-								<integer>6388</integer>
+								<integer>7029</integer>
 							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
+							<key>files/mailer.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								N3Zi41/BVZ9O
-								WiJO11t+GA==
+								Yuy3KExgyEEj
+								i9A9cfqN1Q==
 								</data>
 								<key>Size</key>
-								<integer>9440</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								esYPW1/dDvd8
-								S1o8soMFXw==
-								</data>
-								<key>Size</key>
-								<integer>6743</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
-								</data>
-								<key>Size</key>
-								<integer>2254</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								0xOkgI+3hlfH
-								q5ExvHIWlw==
-								</data>
-								<key>Size</key>
-								<integer>7453</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
+								<integer>8977</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page5</string>
+						<string>page3</string>
 						<key>SiteRoot</key>
 						<string>contact</string>
 						<key>Version</key>

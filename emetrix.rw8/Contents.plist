@@ -13,216 +13,10 @@
 				<string>8.1</string>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>page0 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T10:40:23Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/page0-1000-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								KW5lJwKTiJo+
-								5XHeUV+lqw==
-								</data>
-								<key>Size</key>
-								<integer>950</integer>
-							</dict>
-							<key>files/page0-1000-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ECuKhZEPRmQ9
-								7NXtXdXe9Q==
-								</data>
-								<key>Size</key>
-								<integer>56452</integer>
-							</dict>
-							<key>files/page0-1000-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cIt1lL/zNkEd
-								cLqsbYTvjQ==
-								</data>
-								<key>Size</key>
-								<integer>35273</integer>
-							</dict>
-							<key>files/page0-1001-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								MXzaTfODsef9
-								WIuTvdjIaQ==
-								</data>
-								<key>Size</key>
-								<integer>994</integer>
-							</dict>
-							<key>files/page0-1001-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								x5t7nrQDJ/kw
-								J9I8A8Ysrw==
-								</data>
-								<key>Size</key>
-								<integer>113627</integer>
-							</dict>
-							<key>files/page0-1001-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								rv8Kc8GBZrKW
-								Z21QTpmzqw==
-								</data>
-								<key>Size</key>
-								<integer>52564</integer>
-							</dict>
-							<key>files/page0-1002-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								YRU/8vjgn+Ms
-								CaavHyFu1A==
-								</data>
-								<key>Size</key>
-								<integer>990</integer>
-							</dict>
-							<key>files/page0-1002-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								YK2m9qoPNaPJ
-								uUvfUdRruw==
-								</data>
-								<key>Size</key>
-								<integer>152846</integer>
-							</dict>
-							<key>files/page0-1002-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								XdvmxrVI7b66
-								/ednBwqfmA==
-								</data>
-								<key>Size</key>
-								<integer>39236</integer>
-							</dict>
-							<key>files/page0-1003-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								0tduFqZpV44U
-								g074j+udGQ==
-								</data>
-								<key>Size</key>
-								<integer>988</integer>
-							</dict>
-							<key>files/page0-1003-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								yH0DtIeLq+Oe
-								jYYWEQoSnw==
-								</data>
-								<key>Size</key>
-								<integer>74352</integer>
-							</dict>
-							<key>files/page0-1003-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								WbRRhY4GfXwO
-								yN3WWHoJjg==
-								</data>
-								<key>Size</key>
-								<integer>29127</integer>
-							</dict>
-							<key>files/page0-1004-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								enoVxB5JGkn3
-								LJttvSrFfg==
-								</data>
-								<key>Size</key>
-								<integer>982</integer>
-							</dict>
-							<key>files/page0-1004-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								DpMSjLTrBRNQ
-								0UzJuOaUWw==
-								</data>
-								<key>Size</key>
-								<integer>96582</integer>
-							</dict>
-							<key>files/page0-1004-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								LFJOqugq+BjS
-								PuTd8uEyrA==
-								</data>
-								<key>Size</key>
-								<integer>33364</integer>
-							</dict>
-							<key>files/page0-1005-full.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								EGn3vcahCfXi
-								kv6ZaZpZqQ==
-								</data>
-								<key>Size</key>
-								<integer>940</integer>
-							</dict>
-							<key>files/page0-1005-full.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								uWrIWlU6rqOv
-								Rxyxb5SRkw==
-								</data>
-								<key>Size</key>
-								<integer>51148</integer>
-							</dict>
-							<key>files/page0-1005-thumb.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tqBrN24mW9EV
-								H+POsz8IVQ==
-								</data>
-								<key>Size</key>
-								<integer>22472</integer>
-							</dict>
-							<key>gallery.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								bpYZj5Q9Zauc
-								tocPlizrPA==
-								</data>
-								<key>Size</key>
-								<integer>6794</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page0</string>
-						<key>SiteRoot</key>
-						<string>gallery</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page0 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -411,11 +205,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MSM2UvdDd1J6
-								cwcEjt0y+Q==
+								MYo1Foopo1Y2
+								Sfmn/ZS8cw==
 								</data>
 								<key>Size</key>
-								<integer>6390</integer>
+								<integer>6388</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -425,36 +219,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>page1 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:49:38Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JnrORx72T9XQ
-								kGDKhYDZRg==
-								</data>
-								<key>Size</key>
-								<integer>6033</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page1</string>
-						<key>SiteRoot</key>
-						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page1 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -463,130 +231,24 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								NB7b3m5B1N3B
-								xVvuBBmpPw==
+								d7DYLUlkUGXo
+								4EJGxqe3dg==
 								</data>
 								<key>Size</key>
-								<integer>6031</integer>
+								<integer>6029</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page1</string>
 						<key>SiteRoot</key>
 						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page2 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>case.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								MJkYFiJvioXb
-								zCMaNKcGRw==
-								</data>
-								<key>Size</key>
-								<integer>6403</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OauB4zgVSUEt
-								xkwDeYtUeQ==
-								</data>
-								<key>Size</key>
-								<integer>9451</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BmHKCOLS4EYY
-								eQ4STnqDLg==
-								</data>
-								<key>Size</key>
-								<integer>6766</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ZY7cWtu3FOXD
-								5DXTyzhQyg==
-								</data>
-								<key>Size</key>
-								<integer>2252</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								2TCIh3LW/u96
-								WqyqNmDLxg==
-								</data>
-								<key>Size</key>
-								<integer>7464</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page2</string>
-						<key>SiteRoot</key>
-						<string>case</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>page2 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -595,31 +257,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								rGvXjxqtgpzq
-								WE+6rnnXhQ==
+								qfw4LDmT4xEa
+								P8AbKVB5SA==
 								</data>
 								<key>Size</key>
-								<integer>6403</integer>
+								<integer>6401</integer>
 							</dict>
 							<key>files/adobe-muse-alternatives-for-mac.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								t1N4D/vEzY5C
-								9pRr96IPiA==
+								ltU0NS3p9ncR
+								3wK6yL4FQQ==
 								</data>
 								<key>Size</key>
-								<integer>9451</integer>
+								<integer>9449</integer>
 							</dict>
 							<key>files/archive-june-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DZ72WpV02gNZ
-								eKRj3QPJPw==
+								RNPdBJ+DV+OD
+								3Q6V0XWpFg==
 								</data>
 								<key>Size</key>
-								<integer>6766</integer>
+								<integer>6764</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
@@ -655,11 +317,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Bivwe9MxDyjU
-								t9+QtJgUxQ==
+								VOxerSWdaGkf
+								62LMqjp2og==
 								</data>
 								<key>Size</key>
-								<integer>7464</integer>
+								<integer>7462</integer>
 							</dict>
 							<key>files/rapidweaver-8.png</key>
 							<dict>
@@ -689,328 +351,46 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>page3 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>about.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								RFv8deNDtGr+
-								pSkwOZ8njg==
-								</data>
-								<key>Size</key>
-								<integer>6323</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								SiHrOIoD4v4Y
-								1MnvkVxHuQ==
-								</data>
-								<key>Size</key>
-								<integer>9383</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								M0nd89jEWL30
-								zcVXfV8KcA==
-								</data>
-								<key>Size</key>
-								<integer>6678</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								pmwGiKSDczb2
-								aWVZ4+Mnnw==
-								</data>
-								<key>Size</key>
-								<integer>2242</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kJ3qOAiNb2BH
-								UXzEu05JhQ==
-								</data>
-								<key>Size</key>
-								<integer>7396</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page3</string>
-						<key>SiteRoot</key>
-						<string>about</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page3 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T20:10:31Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>about.html</key>
+							<key>contact.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								FUPVaZ9shuJM
-								yRb2H+188w==
+								JQtbmQa1XoLb
+								9Dt6qgbCKA==
 								</data>
 								<key>Size</key>
-								<integer>6484</integer>
+								<integer>7029</integer>
 							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
+							<key>files/mailer.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								4G6hngpdmLIx
-								mbZGlkb2lg==
+								Yuy3KExgyEEj
+								i9A9cfqN1Q==
 								</data>
 								<key>Size</key>
-								<integer>9548</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								qrsgNbiZhAMa
-								NE9LlZW9pQ==
-								</data>
-								<key>Size</key>
-								<integer>6846</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								qW6OQk6lx4rf
-								jdY+8F2jPA==
-								</data>
-								<key>Size</key>
-								<integer>2244</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								+jPeXk2FeW8P
-								Bh6npwQV2g==
-								</data>
-								<key>Size</key>
-								<integer>7561</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
+								<integer>8977</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page3</string>
 						<key>SiteRoot</key>
-						<string>about</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page4 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OEnpt9dcuzbY
-								Ah0c+O8Uig==
-								</data>
-								<key>Size</key>
-								<integer>9416</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eEUHt3AmPkFc
-								wYmD01QFaQ==
-								</data>
-								<key>Size</key>
-								<integer>6707</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cC0ByDClvzwN
-								MBUa9+lrlw==
-								</data>
-								<key>Size</key>
-								<integer>2236</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tTwCiUV4FKhz
-								S/MgqcHRww==
-								</data>
-								<key>Size</key>
-								<integer>7429</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-							<key>news.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								iIb86+pLdgrb
-								DgftXQayEQ==
-								</data>
-								<key>Size</key>
-								<integer>6352</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page4</string>
-						<key>SiteRoot</key>
-						<string>news</string>
+						<string>contact</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>page4 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1019,61 +399,61 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								62wLpXzLf1tN
-								nZr+QqJkEA==
+								rff/tFnhVxkN
+								/GRXkJmFCQ==
 								</data>
 								<key>Size</key>
-								<integer>8468</integer>
+								<integer>8466</integer>
 							</dict>
 							<key>files/5e6e119d3ab23544ce692cd9501825ba-4.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								jSbWRgXTWexC
-								ihPCjTcYYA==
+								OTkj/OTO5JlC
+								1kej5njHDA==
 								</data>
 								<key>Size</key>
-								<integer>14370</integer>
+								<integer>14368</integer>
 							</dict>
 							<key>files/archive-april-2014.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								okZdsz+zwTPn
-								R8iCFDYpbw==
+								2qpS/4WxI4PW
+								lFALVJ5AGg==
 								</data>
 								<key>Size</key>
-								<integer>8605</integer>
+								<integer>8603</integer>
 							</dict>
 							<key>files/archive-november-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ydAo3s1ITarD
-								0UUFLccPwA==
+								l9HOpW0p6odM
+								D3xQ+KojYQ==
 								</data>
 								<key>Size</key>
-								<integer>8595</integer>
+								<integer>8593</integer>
 							</dict>
 							<key>files/archive-october-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								49ZormEh7Qnr
-								ImwRIurXIA==
+								NlhxMm6OEZcU
+								rf/+So4BNQ==
 								</data>
 								<key>Size</key>
-								<integer>8679</integer>
+								<integer>8677</integer>
 							</dict>
 							<key>files/ba7b370f30657cfc6dae614a1b4cdf59-3.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								QsN6mdKv1r9L
-								Y5FuGxVqdA==
+								CXvKVVlv9Zna
+								hERmXR2NLg==
 								</data>
 								<key>Size</key>
-								<integer>8415</integer>
+								<integer>8413</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
@@ -1099,11 +479,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lIwTLF5AXEm9
-								tdpidgwqBg==
+								gaVgskBIR3dn
+								Pbnopf7fWQ==
 								</data>
 								<key>Size</key>
-								<integer>9459</integer>
+								<integer>9457</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -1113,222 +493,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>page5 - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>contact.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ofVdyBIWK07U
-								GQKxh3pg2w==
-								</data>
-								<key>Size</key>
-								<integer>6380</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OkHnk07LF3an
-								y67tcWK0TA==
-								</data>
-								<key>Size</key>
-								<integer>9432</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								vjKjixWwgBYI
-								A/owXEjshA==
-								</data>
-								<key>Size</key>
-								<integer>6735</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
-								</data>
-								<key>Size</key>
-								<integer>2254</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								p6cgEPbeJSCx
-								AXL68w/GnA==
-								</data>
-								<key>Size</key>
-								<integer>7445</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page5</string>
-						<key>SiteRoot</key>
-						<string>contact</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page5 - file:///Users/sal/Downloads/salska.github.io/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>contact.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4S4xdIVzWuFe
-								H48JTNtc/Q==
-								</data>
-								<key>Size</key>
-								<integer>6388</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								N3Zi41/BVZ9O
-								WiJO11t+GA==
-								</data>
-								<key>Size</key>
-								<integer>9440</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								esYPW1/dDvd8
-								S1o8soMFXw==
-								</data>
-								<key>Size</key>
-								<integer>6743</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BACPFEhFg6OX
-								JUuBkPdZ1g==
-								</data>
-								<key>Size</key>
-								<integer>2254</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								0xOkgI+3hlfH
-								q5ExvHIWlw==
-								</data>
-								<key>Size</key>
-								<integer>7453</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page5</string>
-						<key>SiteRoot</key>
-						<string>contact</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page6 - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T17:09:54Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1337,11 +505,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DtfWNANcFy9X
-								avKCjotZtw==
+								oQI5a//sz3sg
+								gUEZBaHHxQ==
 								</data>
 								<key>Size</key>
-								<integer>9712</integer>
+								<integer>9710</integer>
 							</dict>
 							<key>files/stacks-image-0046646.png</key>
 							<dict>
@@ -1441,76 +609,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:document:extrafiles - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rw_common/images/Spider-3.mp4</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								CB2Bmpial9XJ
-								9Bzlgb8S6w==
-								</data>
-								<key>Size</key>
-								<integer>15505504</integer>
-							</dict>
-							<key>rw_common/images/emetrix.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eayg+llNBUMX
-								4lXaAGug/Q==
-								</data>
-								<key>Size</key>
-								<integer>22002</integer>
-							</dict>
-							<key>rw_common/images/stand-out.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								dvqGcakvRytb
-								SBDQ2eEMcw==
-								</data>
-								<key>Size</key>
-								<integer>139048</integer>
-							</dict>
-							<key>rw_common/version.txt</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ZsIOoA0bdOk0
-								1ZNfij0UEw==
-								</data>
-								<key>Size</key>
-								<integer>5</integer>
-							</dict>
-							<key>sitemap.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Y8/+C3lFiklB
-								pvWNoWqMng==
-								</data>
-								<key>Size</key>
-								<integer>2944</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:document:extrafiles</string>
-						<key>SiteRoot</key>
-						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:document:extrafiles - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T17:09:54Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1549,100 +651,24 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZlK5vpY2e92Z
-								zGan71EPMA==
+								n7mz0WL8GSUZ
+								AUN16+xD9w==
 								</data>
 								<key>Size</key>
-								<integer>1238</integer>
+								<integer>2570</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>rw:document:extrafiles</string>
 						<key>SiteRoot</key>
 						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:document:resources - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>Spider-3.mp4</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								CB2Bmpial9XJ
-								9Bzlgb8S6w==
-								</data>
-								<key>Size</key>
-								<integer>15505504</integer>
-							</dict>
-							<key>coffee.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								CEHentoWRW9l
-								8glQO95ioA==
-								</data>
-								<key>Size</key>
-								<integer>117713</integer>
-							</dict>
-							<key>crystal.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aFW9Wu6ywQK4
-								7bavd6zfUQ==
-								</data>
-								<key>Size</key>
-								<integer>127749</integer>
-							</dict>
-							<key>emetrix.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eayg+llNBUMX
-								4lXaAGug/Q==
-								</data>
-								<key>Size</key>
-								<integer>22002</integer>
-							</dict>
-							<key>jira-2000x1200.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								gQX8K8uLuhbg
-								UdWgZrdtjQ==
-								</data>
-								<key>Size</key>
-								<integer>315852</integer>
-							</dict>
-							<key>stand-out.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								dvqGcakvRytb
-								SBDQ2eEMcw==
-								</data>
-								<key>Size</key>
-								<integer>139048</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:document:resources</string>
-						<key>SiteRoot</key>
-						<string>resources</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>rw:document:resources - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T17:09:54Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1795,116 +821,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:plugin:blog - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T10:18:22Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rss.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ySu0h74kFZbd
-								w1d11rHDPA==
-								</data>
-								<key>Size</key>
-								<integer>219</integer>
-							</dict>
-							<key>smiley_angry.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OsvBGlBtLs1C
-								xAB3/F5vkA==
-								</data>
-								<key>Size</key>
-								<integer>1275</integer>
-							</dict>
-							<key>smiley_embarrassed.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Ok+zrbTJSQbz
-								YHvbtXa5FQ==
-								</data>
-								<key>Size</key>
-								<integer>1310</integer>
-							</dict>
-							<key>smiley_footinmouth.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oNlmERQNe+Jv
-								bhxYf6Q/sQ==
-								</data>
-								<key>Size</key>
-								<integer>1254</integer>
-							</dict>
-							<key>smiley_gasp.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								3fIF+LsL4I97
-								3PnZdsHYdg==
-								</data>
-								<key>Size</key>
-								<integer>1208</integer>
-							</dict>
-							<key>smiley_laugh.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aiKkmJLIzkmw
-								I7ENY7ns/A==
-								</data>
-								<key>Size</key>
-								<integer>1283</integer>
-							</dict>
-							<key>smiley_sad.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JrI6GFcEDYoD
-								NPeCi0NJDQ==
-								</data>
-								<key>Size</key>
-								<integer>1263</integer>
-							</dict>
-							<key>smiley_smile.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ek1FWaeOXYzG
-								u9xa5IUf6A==
-								</data>
-								<key>Size</key>
-								<integer>1240</integer>
-							</dict>
-							<key>smiley_wink.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zIRR5aU+gUMZ
-								uXop1aVLFA==
-								</data>
-								<key>Size</key>
-								<integer>1236</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:plugin:blog</string>
-						<key>SiteRoot</key>
-						<string>rw_common/plugins/blog</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:plugin:blog - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T12:10:19Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -2010,7 +930,7 @@
 					<key>rw:plugin:stacks - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-18T21:11:37Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -2043,342 +963,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:theme:Artful - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T10:18:22Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>consolidated-2.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								1QgtN/gsw71x
-								mqkFWTtPxQ==
-								</data>
-								<key>Size</key>
-								<integer>180884</integer>
-							</dict>
-							<key>consolidated-3.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								1QgtN/gsw71x
-								mqkFWTtPxQ==
-								</data>
-								<key>Size</key>
-								<integer>180884</integer>
-							</dict>
-							<key>consolidated-4.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								1QgtN/gsw71x
-								mqkFWTtPxQ==
-								</data>
-								<key>Size</key>
-								<integer>180884</integer>
-							</dict>
-							<key>consolidated-5.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								1QgtN/gsw71x
-								mqkFWTtPxQ==
-								</data>
-								<key>Size</key>
-								<integer>180884</integer>
-							</dict>
-							<key>consolidated.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Bv+c3FiebgHY
-								mJOQUSblnQ==
-								</data>
-								<key>Size</key>
-								<integer>180884</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-600.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								HC3zyzf/sTnK
-								UqITlZJZ6w==
-								</data>
-								<key>Size</key>
-								<integer>17705</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-600.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oxBGExVH2CcW
-								HqN9mzP6bg==
-								</data>
-								<key>Size</key>
-								<integer>49631</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-600.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								xuuaeVOQKlMq
-								woWN601Whg==
-								</data>
-								<key>Size</key>
-								<integer>34528</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-600.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								RSUT4nZ+mYhL
-								HAhNrQMSaw==
-								</data>
-								<key>Size</key>
-								<integer>19332</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-600.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								uBo3NYSbswSu
-								Ja4Qx0jVqw==
-								</data>
-								<key>Size</key>
-								<integer>15604</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-regular.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								n3MjFgZr2C9t
-								ZsT53nns/g==
-								</data>
-								<key>Size</key>
-								<integer>17285</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-regular.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								17gUGAtUoBso
-								Vq3sm+gmRA==
-								</data>
-								<key>Size</key>
-								<integer>49847</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-regular.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								PuJOsXTT/dyL
-								+eI2Qga1Fg==
-								</data>
-								<key>Size</key>
-								<integer>33268</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-regular.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ynD0mhM/CEhb
-								0F1cso74tw==
-								</data>
-								<key>Size</key>
-								<integer>18936</integer>
-							</dict>
-							<key>fonts/oswald-v16-latin-regular.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								8VqihYYydLT2
-								7VeMqnZWXg==
-								</data>
-								<key>Size</key>
-								<integer>15248</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-700.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lJPlair11O55
-								pJNlBgu+3A==
-								</data>
-								<key>Size</key>
-								<integer>40935</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-700.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								clwe176pSVEQ
-								OujianRlJg==
-								</data>
-								<key>Size</key>
-								<integer>124149</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-700.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								YxBAQDXEUttG
-								v52xg8c0yA==
-								</data>
-								<key>Size</key>
-								<integer>134160</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-700.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								PUODtWb1d4JG
-								MsU/7ldOiw==
-								</data>
-								<key>Size</key>
-								<integer>45620</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-700.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								1oo9lFrWKCNc
-								bhjFEkpFjw==
-								</data>
-								<key>Size</key>
-								<integer>35648</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-regular.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hZO/6928O7vE
-								giqMmU4qBw==
-								</data>
-								<key>Size</key>
-								<integer>40596</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-regular.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								XppSCX6Qx8ko
-								GJE/vgnjKA==
-								</data>
-								<key>Size</key>
-								<integer>124220</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-regular.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								PlyeBMldL7sj
-								I471XwFP1g==
-								</data>
-								<key>Size</key>
-								<integer>128976</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-regular.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								noQf/Q2ykjfO
-								Ll12LA6Rrg==
-								</data>
-								<key>Size</key>
-								<integer>43272</integer>
-							</dict>
-							<key>fonts/quattrocento-v9-latin-regular.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fSqbOfdf0kda
-								MNcAwa51hg==
-								</data>
-								<key>Size</key>
-								<integer>35600</integer>
-							</dict>
-							<key>images/banners/default.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								gvi5lDK+hFwn
-								/VOP+rRRvQ==
-								</data>
-								<key>Size</key>
-								<integer>75982</integer>
-							</dict>
-							<key>js/main.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								HwPpeo3DaKrx
-								AfHMipzI5w==
-								</data>
-								<key>Size</key>
-								<integer>155418</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:theme:Artful</string>
-						<key>SiteRoot</key>
-						<string>rw_common/themes/Artful</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:theme:Future - file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:49:38Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>consolidated-1.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								8LWriRs4s2L1
-								paEwTFjr8w==
-								</data>
-								<key>Size</key>
-								<integer>181335</integer>
-							</dict>
-							<key>images/banners/default.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jbsOG/bNeMj2
-								PnQSaD0LQw==
-								</data>
-								<key>Size</key>
-								<integer>110431</integer>
-							</dict>
-							<key>js/main.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zCNJWjN975o8
-								Vh1hhm8CnQ==
-								</data>
-								<key>Size</key>
-								<integer>155733</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:theme:Future</string>
-						<key>SiteRoot</key>
-						<string>rw_common/themes/Future</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:theme:Future - file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -2413,6 +1001,16 @@
 								<key>Size</key>
 								<integer>181887</integer>
 							</dict>
+							<key>consolidated-3.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								WY1DR42KPebD
+								Z8MCG8+qdA==
+								</data>
+								<key>Size</key>
+								<integer>181887</integer>
+							</dict>
 							<key>consolidated-4.css</key>
 							<dict>
 								<key>Digest</key>
@@ -2422,16 +1020,6 @@
 								</data>
 								<key>Size</key>
 								<integer>181341</integer>
-							</dict>
-							<key>consolidated-5.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								WY1DR42KPebD
-								Z8MCG8+qdA==
-								</data>
-								<key>Size</key>
-								<integer>181887</integer>
 							</dict>
 							<key>consolidated-6.css</key>
 							<dict>
@@ -2672,7 +1260,7 @@
 				gACAAIATgA+ADoARgBBfECQ5MzEyQkYwMC0xQ0RELTRD
 				QzUtODQyOS1CNTNDMkU2RTc2RUNaaWNvbi00LnBuZ18Q
 				JDk2MzJCREZELTYwQzgtNEJFMS1CNUNBLTREODVGRjRF
-				NTZFQtIAUgALAFMAVFdOUy50aW1lI0HBmfbx3527gBLS
+				NTZFQtIAUgALAFMAVFdOUy50aW1lI0HBmf3+9gHNgBLS
 				AC4ALwBWAFdWTlNEYXRlogBWADPTAAkACgALAFkAWwBd
 				oQBagBShAFyAFYAWXxAtZmlsZTovLy9Vc2Vycy9zYWwv
 				RG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8vCNIALgAv
@@ -2684,7 +1272,7 @@
 				CIAggBiAAIAAgB6AG4AagB2AHF8QJDlFQTAwM0FDLTE1
 				NTgtNDU2Ni1CQ0UxLTJCMTg3NDA2QTAzQ1ppY29uLTMu
 				cG5nXxAkRDc0QTc2NzEtMzNBQS00NjE1LThCNTAtNDRD
-				NDU0REQzRUU30gBSAAsAeABUI0HBmfbx353cgBLTAAkA
+				NDU0REQzRUU30gBSAAsAeABUI0HBmf3+9gHvgBLTAAkA
 				CgALAHsAfQBdoQB8gB+hAFyAFYAWXxAtZmlsZTovLy9V
 				c2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIu
 				aW8vXxAfL1VzZXJzL3NhbC9Eb3dubG9hZHMvaWNvbi0z
@@ -2693,7 +1281,7 @@
 				JENDNTI4ODA3LTIzNDUtNEUwMS05RTZGLUFEMTYzOTkw
 				RERDRVppY29uLTIucG5nXxAkNzE2OERGQ0MtMDc1Mi00
 				NjkzLUI4OEItMDNEMTM1QjUyQzg30gBSAAsAkQBUI0HB
-				mfbx354GgBLTAAkACgALAJQAlgBdoQCVgCehAFyAFYAW
+				mf3+9gIQgBLTAAkACgALAJQAlgBdoQCVgCehAFyAFYAW
 				XxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3Nh
 				bHNrYS5naXRodWIuaW8vXxAfL1VzZXJzL3NhbC9Eb3du
 				bG9hZHMvaWNvbi0yLnBuZ9oAPAA9AAsAPgA/AEAAEwBB
@@ -2701,7 +1289,7 @@
 				gC6AK4AqgC2ALF8QJDk3QzIwQzEzLURERkEtNDZGNC1C
 				OThBLTgwRDg3NTlGNUQyOFppY29uLTEucG5nXxAkOUFF
 				M0VDNEItQUZDNy00RDg0LTkwRjItNDQ4MDQ0M0ZCM0U0
-				0gBSAAsAqgBUI0HBmfbx354ogBLTAAkACgALAK0ArwBd
+				0gBSAAsAqgBUI0HBmf3+9gIygBLTAAkACgALAK0ArwBd
 				oQCugC+hAFyAFYAWXxAtZmlsZTovLy9Vc2Vycy9zYWwv
 				RG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8vXxAfL1Vz
 				ZXJzL3NhbC9Eb3dubG9hZHMvaWNvbi0xLnBuZ9IALgAv
@@ -2715,7 +1303,7 @@
 				gDiANYA0gDeANl8QJEJFNTRBQ0FGLTJFNUMtNDFBNy04
 				MjlCLUFBNjQwN0ZGODg3OFtlbWV0cml4LnBuZ18QJDVF
 				NjQ1NUU0LTBBMDgtNEJGQy04RjBGLTg2NkNBQjBCRThF
-				MdIAUgALAOkAVCNBwZn28d+ZHIAS0wAJAAoACwDsAO8A
+				MdIAUgALAOkAVCNBwZn9/vX9HoAS0wAJAAoACwDsAO8A
 				XaIA7QDugDmAOqIAXABcgBWAFYAWXxA0ZmlsZTovLy9V
 				c2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIu
 				aW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rv
@@ -2731,8 +1319,8 @@
 				cm9weSZjcz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZp
 				eGlkPWV5SmhjSEJmYVdRaU9qRXpNalE1ZlHTAQUACwEG
 				AEcBCAEAV05TLmJhc2VbTlMucmVsYXRpdmWAAIBBgD/S
-				AC4ALwELAQxVTlNVUkyiAQsAM9IAUgALAQ4AVCNBwZn2
-				8d+ZqoAS0wAJAAoACwERARQAXaIBEgETgESARaIAXABc
+				AC4ALwELAQxVTlNVUkyiAQsAM9IAUgALAQ4AVCNBwZn9
+				/vX9k4AS0wAJAAoACwERARQAXaIBEgETgESARaIAXABc
 				gBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxv
 				YWRzL3NhbHNrYS5naXRodWIuaW8tbWFzdGVyL18QLWZp
 				bGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxza2Eu
@@ -2746,7 +1334,7 @@
 				anBnJmNyb3A9ZW50cm9weSZjcz10aW55c3JnYiZ3PTEw
 				ODAmZml0PW1heCZpeGlkPWV5SmhjSEJmYVdRaU9qRXpN
 				alE1ZlHTAQUACwEGAEcBCAEkgACAQYBJ0gBSAAsBLQBU
-				I0HBmfbx35nUgBLTAAkACgALATABMwBdogExATKATYBO
+				I0HBmf3+9f21gBLTAAkACgALATABMwBdogExATKATYBO
 				ogBcAFyAFYAVgBZfEDRmaWxlOi8vL1VzZXJzL3NhbC9E
 				b3dubG9hZHMvc2Fsc2thLmdpdGh1Yi5pby1tYXN0ZXIv
 				XxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3Nh
@@ -2760,7 +1348,7 @@
 				MCZmbT1qcGcmY3JvcD1lbnRyb3B5JmNzPXRpbnlzcmdi
 				Jnc9MTA4MCZmaXQ9bWF4Jml4aWQ9ZXlKaGNIQmZhV1Fp
 				T2pFek1qUTVmUdMBBQALAQYARwEIAUOAAIBBgFLSAFIA
-				CwFMAFQjQcGZ9vHfmheAEtMACQAKAAsBTwFSAF2iAVAB
+				CwFMAFQjQcGZ/f71/eeAEtMACQAKAAsBTwFSAF2iAVAB
 				UYBWgFeiAFwAXIAVgBWAFl8QNGZpbGU6Ly8vVXNlcnMv
 				c2FsL0Rvd25sb2Fkcy9zYWxza2EuZ2l0aHViLmlvLW1h
 				c3Rlci9fEC1maWxlOi8vL1VzZXJzL3NhbC9Eb3dubG9h
@@ -2774,7 +1362,7 @@
 				MSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9dGlu
 				eXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpoY0hC
 				ZmFXUWlPakV6TWpRNWZR0wEFAAsBBgBHAQgBYoAAgEGA
-				W9IAUgALAWsAVCNBwZn28d+aOYAS0wAJAAoACwFuAXEA
+				W9IAUgALAWsAVCNBwZn9/vX+GYAS0wAJAAoACwFuAXEA
 				XaIBbwFwgF+AYKIAXABcgBWAFYAWXxA0ZmlsZTovLy9V
 				c2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIu
 				aW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rv
@@ -2788,7 +1376,7 @@
 				LTEuMi4xJnE9ODAmZm09anBnJmNyb3A9ZW50cm9weSZj
 				cz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZpeGlkPWV5
 				SmhjSEJmYVdRaU9qRXpNalE1ZlHTAQUACwEGAEcBCAGB
-				gACAQYBk0gBSAAsBigBUI0HBmfbx35pbgBLTAAkACgAL
+				gACAQYBk0gBSAAsBigBUI0HBmf3+9f4zgBLTAAkACgAL
 				AY0BkABdogGOAY+AaIBpogBcAFyAFYAVgBZfEDRmaWxl
 				Oi8vL1VzZXJzL3NhbC9Eb3dubG9hZHMvc2Fsc2thLmdp
 				dGh1Yi5pby1tYXN0ZXIvXxAtZmlsZTovLy9Vc2Vycy9z
@@ -2797,8 +1385,8 @@
 				ngGfAaAIgHKAGIAAgACAb4BsgGuAboBtXxAkMTJFQzlE
 				NEUtNzY1QS00OEJGLUFBMjktMzdBMDBBQjIxQ0Q3XFNw
 				aWRlci0zLm1wNF8QJDZEQTQ1NTBGLTk3RTctNDkwRC1B
-				NkQ0LTdCMjU3MUUxMUQyRdIAUgALAaUAVCNBwZn28d+a
-				fIAS0wAJAAoACwGoAasAXaIBqQGqgHCAcaIAXABcgBWA
+				NkQ0LTdCMjU3MUUxMUQyRdIAUgALAaUAVCNBwZn9/vX+
+				VIAS0wAJAAoACwGoAasAXaIBqQGqgHCAcaIAXABcgBWA
 				FYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRz
 				L3NhbHNrYS5naXRodWIuaW8tbWFzdGVyL18QLWZpbGU6
 				Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxza2EuZ2l0
@@ -2808,7 +1396,7 @@
 				gHeAdl8QJDVCODFGMUVFLTBGODEtNEE0QS1BODc2LUY2
 				RjE2Q0RBM0MwRFpjb2ZmZWUuanBnXxAkOENBMjg5NUEt
 				MDA4Ny00MjI0LTg2RDItRjUzQjUxOTI0QkZF0gBSAAsB
-				wQBUI0HBmfbx35qegBLTAAkACgALAcQBxwBdogHFAcaA
+				wQBUI0HBmf3+9f52gBLTAAkACgALAcQBxwBdogHFAcaA
 				eYB6ogBcAFyAFYAVgBZfEDRmaWxlOi8vL1VzZXJzL3Nh
 				bC9Eb3dubG9hZHMvc2Fsc2thLmdpdGh1Yi5pby1tYXN0
 				ZXIvXxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRz
@@ -2818,7 +1406,7 @@
 				AIAAgIGAfoB9gICAf18QJEU3QTQyMTk0LTM4ODktNDM5
 				RC1BQUFELTA0NUQ1REI3NEIzMFtjcnlzdGFsLmpwZ18Q
 				JDFBMEMyNTdBLTM0NjUtNDNBRC04RUZFLTUyRkM1N0RC
-				RDVBRNIAUgALAd0AVCNBwZn28d+av4AS0wAJAAoACwHg
+				RDVBRNIAUgALAd0AVCNBwZn9/vX+l4AS0wAJAAoACwHg
 				AeMAXaIB4QHigIKAg6IAXABcgBWAFYAWXxA0ZmlsZTov
 				Ly9Vc2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRo
 				dWIuaW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2Fs
@@ -2829,7 +1417,7 @@
 				MUYtODJEQi00OEVBLTg3RTItMUQwQTA2MDIyODExXxAS
 				amlyYS0yMDAweDEyMDAuanBnXxAkQ0Q2Q0MzQkUtQTUy
 				Qi00NzIwLUI0NDMtOUZCMUJERTNBQTU30gBSAAsB+QBU
-				I0HBmfbx35rhgBLTAAkACgALAfwB/wBdogH9Af6Ai4CM
+				I0HBmf3+9f65gBLTAAkACgALAfwB/wBdogH9Af6Ai4CM
 				ogBcAFyAFYAVgBZfEDRmaWxlOi8vL1VzZXJzL3NhbC9E
 				b3dubG9hZHMvc2Fsc2thLmdpdGh1Yi5pby1tYXN0ZXIv
 				XxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3Nh
@@ -2839,7 +1427,7 @@
 				gJaAGIAAgACAk4CQgI+AkoCRXxAkNEI1QkQ5QTctMURF
 				QS00OTQzLUI5Q0UtOUI4OUZFQUMwMTM5XXN0YW5kLW91
 				dC5qcGdfECRDQ0Y4NkExNy1GQjQxLTQ4MkYtODFCRS1F
-				NTM0OUVDRUU2NUTSAFIACwIVAFQjQcGZ9vHfmwKAEtMA
+				NTM0OUVDRUU2NUTSAFIACwIVAFQjQcGZ/f71/w2AEtMA
 				CQAKAAsCGAIbAF2iAhkCGoCUgJWiAFwAXIAVgBWAFl8Q
 				NGZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxz
 				a2EuZ2l0aHViLmlvLW1hc3Rlci9fEC1maWxlOi8vL1Vz
@@ -2855,7 +1443,7 @@
 				PWpwZyZjcm9wPWVudHJvcHkmY3M9dGlueXNyZ2Imdz0x
 				MDgwJmZpdD1tYXgmaXhpZD1leUpoY0hCZmFXUWlPakV6
 				TWpRNWZR0wEFAAsBBgBHAQgCLIAAgEGAmtIAUgALAjUA
-				VCNBwZn28d+bJIAS0wAJAAoACwI4AjsAXaICOQI6gJ6A
+				VCNBwZn9/vX/LoAS0wAJAAoACwI4AjsAXaICOQI6gJ6A
 				n6IAXABcgBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwv
 				RG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8tbWFzdGVy
 				L18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9z
@@ -2869,7 +1457,7 @@
 				MSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9dGlu
 				eXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpoY0hC
 				ZmFXUWlPakV6TWpRNWZR0wEFAAsBBgBHAQgCS4AAgEGA
-				o9IAUgALAlQAVCNBwZn28d+bPYAS0wAJAAoACwJXAloA
+				o9IAUgALAlQAVCNBwZn9/vX/UIAS0wAJAAoACwJXAloA
 				XaICWAJZgKeAqKIAXABcgBWAFYAWXxA0ZmlsZTovLy9V
 				c2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIu
 				aW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rv
@@ -2883,7 +1471,7 @@
 				Yj1yYi0xLjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJv
 				cHkmY3M9dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhp
 				ZD1leUpoY0hCZmFXUWlPakV6TWpRNWZR0wEFAAsBBgBH
-				AQgCaoAAgEGArNIAUgALAnMAVCNBwZn28d+bX4AS0wAJ
+				AQgCaoAAgEGArNIAUgALAnMAVCNBwZn9/vX/cYAS0wAJ
 				AAoACwJ2AnkAXaICdwJ4gLCAsaIAXABcgBWAFYAWXxA0
 				ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3NhbHNr
 				YS5naXRodWIuaW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNl
@@ -2897,8 +1485,8 @@
 				NmZkZT9peGxpYj1yYi0xLjIuMSZxPTgwJmZtPWpwZyZj
 				cm9wPWVudHJvcHkmY3M9dGlueXNyZ2Imdz0xMDgwJmZp
 				dD1tYXgmaXhpZD1leUpoY0hCZmFXUWlPakV6TWpRNWZR
-				0wEFAAsBBgBHAQgCiYAAgEGAtdIAUgALApIAVCNBwZn2
-				8d+bgIAS0wAJAAoACwKVApgAXaIClgKXgLmAuqIAXABc
+				0wEFAAsBBgBHAQgCiYAAgEGAtdIAUgALApIAVCNBwZn9
+				/vX/k4AS0wAJAAoACwKVApgAXaIClgKXgLmAuqIAXABc
 				gBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxv
 				YWRzL3NhbHNrYS5naXRodWIuaW8tbWFzdGVyL18QLWZp
 				bGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxza2Eu
@@ -2912,7 +1500,7 @@
 				JmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9dGlueXNyZ2Im
 				dz0xMDgwJmZpdD1tYXgmaXhpZD1leUpoY0hCZmFXUWlP
 				akV6TWpRNWZR0wEFAAsBBgBHAQgCqIAAgEGAvtIAUgAL
-				ArEAVCNBwZn28d+bqoAS0wAJAAoACwK0ArcAXaICtQK2
+				ArEAVCNBwZn9/vX/tYAS0wAJAAoACwK0ArcAXaICtQK2
 				gMKAw6IAXABcgBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9z
 				YWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8tbWFz
 				dGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fk
@@ -2926,7 +1514,7 @@
 				LjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wEFAAsBBgBHAQgCx4AA
-				gEGAx9IAUgALAtAAVCNBwZn28d+bw4AS0wAJAAoACwLT
+				gEGAx9IAUgALAtAAVCNBwZn9/vX/zoAS0wAJAAoACwLT
 				AtYAXaIC1ALVgMuAzKIAXABcgBWAFYAWXxA0ZmlsZTov
 				Ly9Vc2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRo
 				dWIuaW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2Fs
@@ -2940,7 +1528,7 @@
 				eGxpYj1yYi0xLjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVu
 				dHJvcHkmY3M9dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgm
 				aXhpZD1leUpoY0hCZmFXUWlPakV6TWpRNWZR0wEFAAsB
-				BgBHAQgC5oAAgEGA0NIAUgALAu8AVCNBwZn28d+b5YAS
+				BgBHAQgC5oAAgEGA0NIAUgALAu8AVCNBwZn9/vX/74AS
 				0wAJAAoACwLyAvUAXaIC8wL0gNSA1aIAXABcgBWAFYAW
 				XxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3Nh
 				bHNrYS5naXRodWIuaW8tbWFzdGVyL18QLWZpbGU6Ly8v
@@ -2955,7 +1543,7 @@
 				ZyZjcm9wPWVudHJvcHkmY3M9dGlueXNyZ2Imdz0xMDgw
 				JmZpdD1tYXgmaXhpZD1leUpoY0hCZmFXUWlPakV6TWpR
 				NWZR0wEFAAsBBgBHAQgDBYAAgEGA2dIAUgALAw4AVCNB
-				wZn28d+cD4AS0wAJAAoACwMRAxQAXaIDEgMTgN2A3qIA
+				wZn9/vYAEYAS0wAJAAoACwMRAxQAXaIDEgMTgN2A3qIA
 				XABcgBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93
 				bmxvYWRzL3NhbHNrYS5naXRodWIuaW8tbWFzdGVyL18Q
 				LWZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxz
@@ -2969,7 +1557,7 @@
 				PTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9dGlueXNy
 				Z2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpoY0hCZmFX
 				UWlPakV6TWpRNWZR0wEFAAsBBgBHAQgDJIAAgEGA4tIA
-				UgALAy0AVCNBwZn28d+cKIAS0wAJAAoACwMwAzMAXaID
+				UgALAy0AVCNBwZn9/vYAMoAS0wAJAAoACwMwAzMAXaID
 				MQMygOaA56IAXABcgBWAFYAWXxA0ZmlsZTovLy9Vc2Vy
 				cy9zYWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8t
 				bWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25s
@@ -2983,7 +1571,7 @@
 				Yi0xLjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkm
 				Y3M9dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1l
 				eUpoY0hCZmFXUWlPakV6TWpRNWZR0wEFAAsBBgBHAQgD
-				Q4AAgEGA69IAUgALA0wAVCNBwZn28d+cWoAS0wAJAAoA
+				Q4AAgEGA69IAUgALA0wAVCNBwZn9/vYAVIAS0wAJAAoA
 				CwNPA1IAXaIDUANRgO+A8KIAXABcgBWAFYAWXxA0Zmls
 				ZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRzL3NhbHNrYS5n
 				aXRodWIuaW8tbWFzdGVyL18QLWZpbGU6Ly8vVXNlcnMv
@@ -2997,8 +1585,8 @@
 				Nj9peGxpYj1yYi0xLjIuMSZxPTgwJmZtPWpwZyZjcm9w
 				PWVudHJvcHkmY3M9dGlueXNyZ2Imdz0xMDgwJmZpdD1t
 				YXgmaXhpZD1leUpoY0hCZmFXUWlPakV6TWpRNWZR0wEF
-				AAsBBgBHAQgDYoAAgEGA9NIAUgALA2sAVCNBwZn28d+c
-				fIAS0wAJAAoACwNuA3EAXaIDbwNwgPiA+aIAXABcgBWA
+				AAsBBgBHAQgDYoAAgEGA9NIAUgALA2sAVCNBwZn9/vYA
+				bYAS0wAJAAoACwNuA3EAXaIDbwNwgPiA+aIAXABcgBWA
 				FYAWXxA0ZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRz
 				L3NhbHNrYS5naXRodWIuaW8tbWFzdGVyL18QLWZpbGU6
 				Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxza2EuZ2l0
@@ -3012,7 +1600,7 @@
 				bT1qcGcmY3JvcD1lbnRyb3B5JmNzPXRpbnlzcmdiJnc9
 				MTA4MCZmaXQ9bWF4Jml4aWQ9ZXlKaGNIQmZhV1FpT2pF
 				ek1qUTVmUdMBBQALAQYARwEIA4GAAIBBgP3SAFIACwOK
-				AFQjQcGZ9vHfnJ2AEtMACQAKAAsDjQOQAF2iA44Dj4EB
+				AFQjQcGZ/f72AI+AEtMACQAKAAsDjQOQAF2iA44Dj4EB
 				AYEBAqIAXABcgBWAFYAWXxA0ZmlsZTovLy9Vc2Vycy9z
 				YWwvRG93bmxvYWRzL3NhbHNrYS5naXRodWIuaW8tbWFz
 				dGVyL18QLWZpbGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fk
@@ -3026,7 +1614,7 @@
 				LTEuMi4xJnE9ODAmZm09anBnJmNyb3A9ZW50cm9weSZj
 				cz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZpeGlkPWV5
 				SmhjSEJmYVdRaU9qRXpNalE1ZlHTAQUACwEGAEcBCAOg
-				gACAQYEBBtIAUgALA6kAVCNBwZn28d+cv4AS0wAJAAoA
+				gACAQYEBBtIAUgALA6kAVCNBwZn9/vYAsIAS0wAJAAoA
 				CwOsA68AXaIDrQOugQEKgQELogBcAFyAFYAVgBZfEDRm
 				aWxlOi8vL1VzZXJzL3NhbC9Eb3dubG9hZHMvc2Fsc2th
 				LmdpdGh1Yi5pby1tYXN0ZXIvXxAtZmlsZTovLy9Vc2Vy
@@ -3041,7 +1629,7 @@
 				anBnJmNyb3A9ZW50cm9weSZjcz10aW55c3JnYiZ3PTEw
 				ODAmZml0PW1heCZpeGlkPWV5SmhjSEJmYVdRaU9qRXpN
 				alE1ZlHTAQUACwEGAEcBCAO/gACAQYEBD9IAUgALA8gA
-				VCNBwZn28d+c2IAS0wAJAAoACwPLA84AXaIDzAPNgQET
+				VCNBwZn9/vYA0oAS0wAJAAoACwPLA84AXaIDzAPNgQET
 				gQEUogBcAFyAFYAVgBZfEDRmaWxlOi8vL1VzZXJzL3Nh
 				bC9Eb3dubG9hZHMvc2Fsc2thLmdpdGh1Yi5pby1tYXN0
 				ZXIvXxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRz
@@ -3055,7 +1643,7 @@
 				MS4yLjEmcT04MCZmbT1qcGcmY3JvcD1lbnRyb3B5JmNz
 				PXRpbnlzcmdiJnc9MTA4MCZmaXQ9bWF4Jml4aWQ9ZXlK
 				aGNIQmZhV1FpT2pFek1qUTVmUdMBBQALAQYARwEIA96A
-				AIBBgQEY0gBSAAsD5wBUI0HBmfbx35z6gBLTAAkACgAL
+				AIBBgQEY0gBSAAsD5wBUI0HBmf3+9gDzgBLTAAkACgAL
 				A+oD7QBdogPrA+yBARyBAR2iAFwAXIAVgBWAFl8QNGZp
 				bGU6Ly8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWxza2Eu
 				Z2l0aHViLmlvLW1hc3Rlci9fEC1maWxlOi8vL1VzZXJz
@@ -3070,7 +1658,7 @@
 				cGcmY3JvcD1lbnRyb3B5JmNzPXRpbnlzcmdiJnc9MTA4
 				MCZmaXQ9bWF4Jml4aWQ9ZXlKaGNIQmZhV1FpT2pFek1q
 				UTVmUdMBBQALAQYARwEIA/2AAIBBgQEh0gBSAAsEBgBU
-				I0HBmfbx350bgBLTAAkACgALBAkEDABdogQKBAuBASWB
+				I0HBmf3+9gEVgBLTAAkACgALBAkEDABdogQKBAuBASWB
 				ASaiAFwAXIAVgBWAFl8QNGZpbGU6Ly8vVXNlcnMvc2Fs
 				L0Rvd25sb2Fkcy9zYWxza2EuZ2l0aHViLmlvLW1hc3Rl
 				ci9fEC1maWxlOi8vL1VzZXJzL3NhbC9Eb3dubG9hZHMv
@@ -3079,7 +1667,7 @@
 				gACBASyBASmBASiBASuBASpfECQ4NDVGNDk4QS05MjIw
 				LTREOTAtQTk4Ni0xRjJDRDU5RUYyNjVac2FpbnNiLnBu
 				Z18QJDcyQ0U4NDlDLUFFMzUtNENGMi1CNDUwLTEyMjdG
-				N0VENUU2M9IAUgALBCEAVCNBwZn28d+dPYAS0wAJAAoA
+				N0VENUU2M9IAUgALBCEAVCNBwZn9/vYBNoAS0wAJAAoA
 				CwQkBCYAXaEEJYEBLaEAXIAVgBZfEC1maWxlOi8vL1Vz
 				ZXJzL3NhbC9Eb3dubG9hZHMvc2Fsc2thLmdpdGh1Yi5p
 				by9fEB8vVXNlcnMvc2FsL0Rvd25sb2Fkcy9zYWluc2Iu
@@ -3088,7 +1676,7 @@
 				gQEyXxAkMTMwNjdBREQtMkQ3Ni00MDZBLTk4QUItRjQw
 				QTkwQzBBQjREV3Jicy5wbmdfECQ2QzUyMDg2MS1DOEU0
 				LTRGM0EtQjA1OS02QTc1QTI0MTg1QjfSAFIACwQ6AFQj
-				QcGZ9vHfnV6AEtMACQAKAAsEPQQ/AF2hBD6BATWhAFyA
+				QcGZ/f72AVCAEtMACQAKAAsEPQQ/AF2hBD6BATWhAFyA
 				FYAWXxAtZmlsZTovLy9Vc2Vycy9zYWwvRG93bmxvYWRz
 				L3NhbHNrYS5naXRodWIuaW8vXxAcL1VzZXJzL3NhbC9E
 				b3dubG9hZHMvcmJzLnBuZ9oAPAA9AAsAPgA/AEAAEwBB
@@ -3096,7 +1684,7 @@
 				AIEBPIEBOYEBOIEBO4EBOl8QJDM4RDQ2NTI4LUM0QkYt
 				NDM5NS05QjE1LTY2OTE4RDk2MDE4NV5wcnVkZW50aWFs
 				LnBuZ18QJDFGRUI1RDY4LTM2QTItNDkwMC04RjA0LUE0
-				RDMwRDU0Q0IxQdIAUgALBFMAVCNBwZn28d+dgIAS0wAJ
+				RDMwRDU0Q0IxQdIAUgALBFMAVCNBwZn9/vYBioAS0wAJ
 				AAoACwRWBFgAXaEEV4EBPaEAXIAVgBZfEC1maWxlOi8v
 				L1VzZXJzL3NhbC9Eb3dubG9hZHMvc2Fsc2thLmdpdGh1
 				Yi5pby9fECMvVXNlcnMvc2FsL0Rvd25sb2Fkcy9wcnVk
@@ -3105,7 +1693,7 @@
 				QYEBQIEBQ4EBQl8QJEI4NjlDRUI5LThDM0EtNEUxQS05
 				QjJBLTgyNUJBNjk3OEQ5Ql10ZXNjb2JhbmsucG5nXxAk
 				RDNENzA3QTYtREE1Mi00QTJFLThBODQtMzk4MUJCQ0JD
-				QzZD0gBSAAsEbABUI0HBmfbx352ZgBLTAAkACgALBG8E
+				QzZD0gBSAAsEbABUI0HBmf3+9gGsgBLTAAkACgALBG8E
 				cQBdoQRwgQFFoQBcgBWAFl8QLWZpbGU6Ly8vVXNlcnMv
 				c2FsL0Rvd25sb2Fkcy9zYWxza2EuZ2l0aHViLmlvL18Q
 				IC9Vc2Vycy9zYWwvRGVza3RvcC90ZXNjb2JhbmsucG5n

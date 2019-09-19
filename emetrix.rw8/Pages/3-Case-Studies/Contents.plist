@@ -32,116 +32,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/sal/Downloads/salska.github.io-master/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-09-18T11:38:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>case.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								MJkYFiJvioXb
-								zCMaNKcGRw==
-								</data>
-								<key>Size</key>
-								<integer>6403</integer>
-							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OauB4zgVSUEt
-								xkwDeYtUeQ==
-								</data>
-								<key>Size</key>
-								<integer>9451</integer>
-							</dict>
-							<key>files/archive-june-2018.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BmHKCOLS4EYY
-								eQ4STnqDLg==
-								</data>
-								<key>Size</key>
-								<integer>6766</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ZY7cWtu3FOXD
-								5DXTyzhQyg==
-								</data>
-								<key>Size</key>
-								<integer>2252</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
-								</data>
-								<key>Size</key>
-								<integer>1955</integer>
-							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								2TCIh3LW/u96
-								WqyqNmDLxg==
-								</data>
-								<key>Size</key>
-								<integer>7464</integer>
-							</dict>
-							<key>files/rapidweaver-8.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
-								</data>
-								<key>Size</key>
-								<integer>517924</integer>
-							</dict>
-							<key>files/welcome.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
-								</data>
-								<key>Size</key>
-								<integer>1265546</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page2</string>
-						<key>SiteRoot</key>
-						<string>case</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T18:10:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -150,31 +44,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								rGvXjxqtgpzq
-								WE+6rnnXhQ==
+								qfw4LDmT4xEa
+								P8AbKVB5SA==
 								</data>
 								<key>Size</key>
-								<integer>6403</integer>
+								<integer>6401</integer>
 							</dict>
 							<key>files/adobe-muse-alternatives-for-mac.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								t1N4D/vEzY5C
-								9pRr96IPiA==
+								ltU0NS3p9ncR
+								3wK6yL4FQQ==
 								</data>
 								<key>Size</key>
-								<integer>9451</integer>
+								<integer>9449</integer>
 							</dict>
 							<key>files/archive-june-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DZ72WpV02gNZ
-								eKRj3QPJPw==
+								RNPdBJ+DV+OD
+								3Q6V0XWpFg==
 								</data>
 								<key>Size</key>
-								<integer>6766</integer>
+								<integer>6764</integer>
 							</dict>
 							<key>files/feed.xml</key>
 							<dict>
@@ -210,11 +104,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Bivwe9MxDyjU
-								t9+QtJgUxQ==
+								VOxerSWdaGkf
+								62LMqjp2og==
 								</data>
 								<key>Size</key>
-								<integer>7464</integer>
+								<integer>7462</integer>
 							</dict>
 							<key>files/rapidweaver-8.png</key>
 							<dict>
