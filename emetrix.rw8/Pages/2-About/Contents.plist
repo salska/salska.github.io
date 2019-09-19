@@ -35,7 +35,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T11:23:42Z</date>
+						<date>2019-09-19T11:45:47Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								gpDYkMF+e1KK
-								QK3gNI858w==
+								5KDeKCD4c4aS
+								oEH3nqdXGg==
 								</data>
 								<key>Size</key>
 								<integer>9283</integer>
+							</dict>
+							<key>files/stacks-image-0046646.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								gjIOybmHGKOK
+								2kRG9oN36w==
+								</data>
+								<key>Size</key>
+								<integer>22589</integer>
 							</dict>
 							<key>files/stacks-image-0ce6c0b.png</key>
 							<dict>
@@ -71,16 +81,6 @@
 								<integer>5073</integer>
 							</dict>
 							<key>files/stacks-image-ac3069d.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								iQr/FkNmIsrt
-								ZQC0/PPV5Q==
-								</data>
-								<key>Size</key>
-								<integer>2062</integer>
-							</dict>
-							<key>files/stacks-image-fdf518d.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
