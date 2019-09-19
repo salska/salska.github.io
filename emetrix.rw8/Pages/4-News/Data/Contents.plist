@@ -65,7 +65,7 @@
 				<key>CategoriesSeparatorText</key>
 				<string> | </string>
 				<key>CategoriesTitleText</key>
-				<string>Filed in: </string>
+				<string>See: </string>
 				<key>CommentSeparatorText</key>
 				<string> | </string>
 				<key>CommentsRSSFeedText</key>
@@ -197,7 +197,7 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2019-09-19T18:56:26Z</date>
+				<date>2018-06-07T10:45:08Z</date>
 				<key>LastID</key>
 				<integer>5</integer>
 				<key>LastSavedBuildDate</key>

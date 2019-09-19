@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"adobe-muse-alternatives-for-mac.html":"As you probably already know, Adobe is discontinuing development of Muse after just eight short years. Understandably users are not happy and are look","rapidweaver-8-coming-soon.html":"I know it's been a while since the last RapidWeaver 7 update, and there's a good reason for that… It's because we've been heads down working away on R","archive-june-2018.html":"Archives for June 2018"};
+	var websiteMeta = {"category-insurance.html":"A list of posts in category &ldquo;Insurance&rdquo;","4c8f4cd762a7965da1ba67a14f82f66d-2.html":"Due to the immature nature of CRS legislation, the client was experiencing significant changes to the managed service solution to ensure regulatory co","category-banking.html":"A list of posts in category &ldquo;Banking&rdquo;","tag-regulatory.html":"Posts tagged &ldquo;Regulatory&rdquo;","category-public-sector.html":"A list of posts in category &ldquo;Public Sector&rdquo;","category-camunda.html":"A list of posts in category &ldquo;Camunda&rdquo;","tag-compliance.html":"Posts tagged &ldquo;Compliance&rdquo;","tag-tax.html":"Posts tagged &ldquo;Tax&rdquo;"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;

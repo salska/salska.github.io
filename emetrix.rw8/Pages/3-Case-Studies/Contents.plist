@@ -35,7 +35,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-19T18:41:01Z</date>
+						<date>2019-09-19T22:45:21Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,91 +44,81 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								rGvXjxqtgpzq
-								WE+6rnnXhQ==
+								OOxdcMiiZAF4
+								O/uP3yzqZQ==
 								</data>
 								<key>Size</key>
-								<integer>6403</integer>
+								<integer>6437</integer>
 							</dict>
-							<key>files/adobe-muse-alternatives-for-mac.html</key>
+							<key>files/4c8f4cd762a7965da1ba67a14f82f66d-2.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								t1N4D/vEzY5C
-								9pRr96IPiA==
+								dTAGK6WftaLb
+								822HGiFn8w==
 								</data>
 								<key>Size</key>
-								<integer>9451</integer>
+								<integer>7455</integer>
 							</dict>
-							<key>files/archive-june-2018.html</key>
+							<key>files/category-banking.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DZ72WpV02gNZ
-								eKRj3QPJPw==
+								dSAyE+wxgL8P
+								HXD11bimXQ==
 								</data>
 								<key>Size</key>
-								<integer>6766</integer>
+								<integer>6538</integer>
 							</dict>
-							<key>files/feed.xml</key>
+							<key>files/category-camunda.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZY7cWtu3FOXD
-								5DXTyzhQyg==
+								H6a2w4ylP7R0
+								qHOFIZ2SIQ==
 								</data>
 								<key>Size</key>
-								<integer>2252</integer>
-							</dict>
-							<key>files/health-check.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4kVW/+1DJ2S/
-								JApg9D2L9g==
-								</data>
-								<key>Size</key>
-								<integer>825829</integer>
+								<integer>6538</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								cLDBzaJCK4vs
-								4K2gk70aLA==
+								aEeW1hsUCgEw
+								iW5q7Z+sIQ==
 								</data>
 								<key>Size</key>
-								<integer>1955</integer>
+								<integer>2212</integer>
 							</dict>
-							<key>files/rapidweaver-8-coming-soon.html</key>
+							<key>files/tag-compliance.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Bivwe9MxDyjU
-								t9+QtJgUxQ==
+								x07xV3+pvs+G
+								kya4d2baYg==
 								</data>
 								<key>Size</key>
-								<integer>7464</integer>
+								<integer>6725</integer>
 							</dict>
-							<key>files/rapidweaver-8.png</key>
+							<key>files/tag-regulatory.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Wk3FTFqbNcwP
-								Qd33kvnXFw==
+								vrUHBz64MNz1
+								febar3Iwvg==
 								</data>
 								<key>Size</key>
-								<integer>517924</integer>
+								<integer>6725</integer>
 							</dict>
-							<key>files/welcome.jpg</key>
+							<key>files/tag-tax.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								e2cqaHJSfQhK
-								ZHd8/k03Hw==
+								3/rYDncPMSMt
+								6YFON+sgXg==
 								</data>
 								<key>Size</key>
-								<integer>1265546</integer>
+								<integer>6683</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
