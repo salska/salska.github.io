@@ -35,7 +35,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-20T10:00:08Z</date>
+						<date>2019-09-20T11:27:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,41 +44,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								S39W8J2pXwR/
-								eCbj3/XYXA==
+								Aor7DYa39NTp
+								m1Z/1B/RMg==
 								</data>
 								<key>Size</key>
-								<integer>6247</integer>
+								<integer>6453</integer>
 							</dict>
 							<key>files/4c8f4cd762a7965da1ba67a14f82f66d-2.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								HSjXIvfjCUQl
-								pAA922SSUw==
+								PcLzCoEORH2B
+								QFSWwDJlqw==
 								</data>
 								<key>Size</key>
-								<integer>7054</integer>
+								<integer>7266</integer>
 							</dict>
 							<key>files/category-banking.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								M5Dm25TFs+YE
-								8hw5NJl7rw==
+								6rVLkhPcuQSe
+								rTF3rn+Rwg==
 								</data>
 								<key>Size</key>
-								<integer>6342</integer>
+								<integer>6554</integer>
 							</dict>
 							<key>files/category-camunda.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								8CUqqB3qdhg8
-								IBY5I8zSFw==
+								qnmHvUsOJVQi
+								Ql07cqFSIQ==
 								</data>
 								<key>Size</key>
-								<integer>6342</integer>
+								<integer>6554</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
@@ -94,31 +94,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								+yzlOBjpRhvY
-								jFEa0FwhRg==
+								skVgnM8RIvuT
+								sAesluoZcw==
 								</data>
 								<key>Size</key>
-								<integer>6529</integer>
+								<integer>6741</integer>
 							</dict>
 							<key>files/tag-regulatory.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								5vy0bVnLSfvV
-								3q6XvDjXjg==
+								BBtaG5szWRoq
+								TLPRpqoSaw==
 								</data>
 								<key>Size</key>
-								<integer>6529</integer>
+								<integer>6741</integer>
 							</dict>
 							<key>files/tag-tax.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								+DParpnx1Faw
-								vfuSk/b3VA==
+								lWsZOGO85MRr
+								A4khQFtQTw==
 								</data>
 								<key>Size</key>
-								<integer>6487</integer>
+								<integer>6699</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

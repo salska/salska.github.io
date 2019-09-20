@@ -10,15 +10,15 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BannerIdentifier</key>
-				<string>7F819E56-6293-485A-965D-2EE572D5E322</string>
+				<string>5000328A-8456-473B-88A6-B2DDDF25316E</string>
 				<key>CreatedDate</key>
-				<date>2019-09-19T18:12:31Z</date>
+				<date>2019-09-20T10:06:06Z</date>
 				<key>ID</key>
-				<string>page5</string>
+				<string>page0</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Contact</string>
+				<string>Work</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -35,52 +35,32 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-20T10:00:57Z</date>
+						<date>2019-09-20T11:27:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>contact.html</key>
+							<key>files/stacks-image-03c61b5.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								5Wp+0JelA8Yj
-								DVwQn9bXzA==
+								UPVo4VEh9olI
+								OAjY1Qm0hg==
 								</data>
 								<key>Size</key>
-								<integer>6581</integer>
+								<integer>11612</integer>
 							</dict>
-							<key>files/stacks-image-c2e962a-298x306.jpg</key>
+							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								jGl8M4KyHRsc
-								LTxsXBYNUQ==
+								kVBInkPIa36y
+								Z9vRpSaOIg==
 								</data>
 								<key>Size</key>
-								<integer>15801</integer>
+								<integer>590</integer>
 							</dict>
-							<key>files/stacks-image-c2e962a-298x306@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BclAp7hr1hSK
-								tFVH+nG4nA==
-								</data>
-								<key>Size</key>
-								<integer>12978</integer>
-							</dict>
-							<key>files/stacks_page_page5.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								XbV7+a13ldHj
-								3zgfCSKB6Q==
-								</data>
-								<key>Size</key>
-								<integer>127</integer>
-							</dict>
-							<key>files/stacks_page_page5.js</key>
+							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -90,11 +70,21 @@
 								<key>Size</key>
 								<integer>17</integer>
 							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								dfLbvMNeaaRW
+								7vq8u3UgmA==
+								</data>
+								<key>Size</key>
+								<integer>6499</integer>
+							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page5</string>
+						<string>page0</string>
 						<key>SiteRoot</key>
-						<string>contact</string>
+						<string>page</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -104,6 +94,7 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>ChildPages</string>
 				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
