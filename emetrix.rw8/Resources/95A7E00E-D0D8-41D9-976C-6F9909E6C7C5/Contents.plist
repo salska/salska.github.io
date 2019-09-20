@@ -10,16 +10,14 @@
 			<key>Dictionary</key>
 			<dict/>
 			<key>Files</key>
-			<array/>
-			<key>Subsandwiches</key>
 			<array>
-				<string>1-RBS</string>
-				<string>2-Prudential</string>
-				<string>3-Tesco-Bank</string>
+				<string>rbs-CS.png</string>
 			</array>
+			<key>Subsandwiches</key>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Pages</string>
+	<string>Resource</string>
 </dict>
 </plist>
