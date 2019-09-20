@@ -58,5 +58,7 @@
   
 
 #stacks_in_24_page0 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
 	padding: 20px 0px 0px 0px;
 }
