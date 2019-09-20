@@ -17,6 +17,8 @@
 				<string>Future</string>
 				<key>ID</key>
 				<string>page3</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>RBS</string>
 				<key>PluginClassName</key>
