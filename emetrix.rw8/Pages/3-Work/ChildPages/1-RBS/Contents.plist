@@ -35,40 +35,40 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-20T15:48:44Z</date>
+						<date>2019-09-20T16:31:16Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks-image-8432c65-262x300.png</key>
+							<key>files/stacks-image-daf03e4-170x142.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								dCLBDaPJ0IFH
-								xYZLLBC63w==
+								Tsv6VbiyNMhT
+								RihJ7XJqOA==
 								</data>
 								<key>Size</key>
-								<integer>31468</integer>
+								<integer>16565</integer>
 							</dict>
-							<key>files/stacks-image-8432c65-262x300@2x.png</key>
+							<key>files/stacks-image-daf03e4-170x142@2x.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								VBuLUxnbPOwo
-								IPZ1sU7fSA==
+								dGUQBh/DWfOe
+								DHBlCkbs/Q==
 								</data>
 								<key>Size</key>
-								<integer>72632</integer>
+								<integer>40723</integer>
 							</dict>
 							<key>files/stacks_page_page3.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								N6mdgptNGTKS
-								oMofYhKkvA==
+								3dxP3R8oe+ye
+								91mn5n/3FQ==
 								</data>
 								<key>Size</key>
-								<integer>52</integer>
+								<integer>202</integer>
 							</dict>
 							<key>files/stacks_page_page3.js</key>
 							<dict>
@@ -84,11 +84,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								rrnhDdVlrPpu
-								ZLSrDW90kg==
+								pmJtVeXD5jnS
+								gz//cpNgEQ==
 								</data>
 								<key>Size</key>
-								<integer>7996</integer>
+								<integer>7795</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

@@ -73,13 +73,6 @@
 				<true/>
 				<key>SidebarEnabled</key>
 				<integer>0</integer>
-				<key>SidebarPlain</key>
-				<string>&lt;div class='centered_image' &gt;
-    &lt;img class='imageStyle' src='fhttps://www.emetrix.biz/resources/abstract-1.png' alt='Stacks Image 44'  srcset='https://www.emetrix.biz/resources/abstract-1.png' /&gt;
-&lt;/div&gt;
-&lt;p&gt;200 Tax Agents&lt;/p&gt;
-&lt;p&gt;40+ Country Agencies&lt;/p&gt;
-</string>
 				<key>SidebarTitle</key>
 				<string></string>
 				<key>TextEncoding</key>
@@ -116,9 +109,9 @@
 				<key>Variables</key>
 				<dict>
 					<key>%content_width%</key>
-					<string>7</string>
+					<string>12</string>
 					<key>%sidebar_width%</key>
-					<string>3</string>
+					<string>12</string>
 				</dict>
 			</dict>
 			<key>Files</key>
