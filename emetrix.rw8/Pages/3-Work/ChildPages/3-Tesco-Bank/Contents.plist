@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BannerIdentifier</key>
-				<string>1323697B-EEF9-4946-BD72-A2D5B32942CA</string>
+				<string>9864A79C-F52D-4A5E-A516-D0860EB93CEA</string>
 				<key>CreatedDate</key>
 				<date>2019-09-20T10:06:06Z</date>
 				<key>CustomThemeName</key>
@@ -37,7 +37,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-20T16:50:59Z</date>
+						<date>2019-09-20T21:19:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -46,11 +46,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ESa7ggkMATt6
-								8FXn4d9A8w==
+								UN4Bnu6c3zFM
+								rSMdRYLzfQ==
 								</data>
 								<key>Size</key>
-								<integer>7833</integer>
+								<integer>7210</integer>
 							</dict>
 							<key>tescob_files/stacks-image-daf03e4-170x142.png</key>
 							<dict>
@@ -76,11 +76,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								v7JwFTtVfZpR
-								3L9unGdstg==
+								NqDclyWO498R
+								h0g2r2bncg==
 								</data>
 								<key>Size</key>
-								<integer>202</integer>
+								<integer>203</integer>
 							</dict>
 							<key>tescob_files/stacks_page_page7.js</key>
 							<dict>
