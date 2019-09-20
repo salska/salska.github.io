@@ -18,10 +18,9 @@
 			<array>
 				<string>1-Home</string>
 				<string>2-About</string>
-				<string>3-Case-Studies</string>
-				<string>4-Work</string>
-				<string>5-News</string>
-				<string>6-Contact</string>
+				<string>3-Work</string>
+				<string>4-News</string>
+				<string>5-Contact</string>
 			</array>
 		</dict>
 	</array>
