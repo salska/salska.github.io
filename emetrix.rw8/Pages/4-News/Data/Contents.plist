@@ -107,6 +107,65 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
+							<integer>7</integer>
+							<integer>4</integer>
+						</array>
+						<key>GUID</key>
+						<string>a366e1d44291bcc892b4d3fc4b27c42f</string>
+						<key>ID</key>
+						<integer>6</integer>
+						<key>Posted</key>
+						<date>2019-09-12T09:55:36Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>Cloud</string>
+							<string>Compliance</string>
+							<string>Regulatory</string>
+							<string>Data Migration</string>
+							<string>Microservice</string>
+						</array>
+						<key>Title</key>
+						<string>RBS Website Migration to Camunda Ops Tax goes live</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>4</integer>
+						</array>
+						<key>GUID</key>
+						<string>672869f9781778b1d2306f40dc7927bd</string>
+						<key>ID</key>
+						<integer>5</integer>
+						<key>Posted</key>
+						<date>2018-12-12T10:44:55Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>BPMN</string>
+							<string>Solution Partner</string>
+							<string>Cloud</string>
+						</array>
+						<key>Title</key>
+						<string>Camunda Solution Partner</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
 							<integer>10</integer>
 							<integer>11</integer>
 						</array>
@@ -152,6 +211,7 @@
 						<array>
 							<string>Solution Partner</string>
 							<string>Adobe</string>
+							<string>Cloud</string>
 						</array>
 						<key>Title</key>
 						<string>Adobe AEM Solution Partner</string>
@@ -197,9 +257,9 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2018-06-07T10:45:08Z</date>
+				<date>2019-09-22T10:07:07Z</date>
 				<key>LastID</key>
-				<integer>5</integer>
+				<integer>7</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2018-06-07T10:45:08Z</date>
 				<key>NumberOfFrontPagePosts</key>
@@ -245,6 +305,10 @@
 				<string>2-Summary.as</string>
 				<string>3-Body.as</string>
 				<string>3-Summary.as</string>
+				<string>4-Body.as</string>
+				<string>4-Summary.as</string>
+				<string>5-Body.as</string>
+				<string>5-Summary.as</string>
 			</array>
 			<key>Subsandwiches</key>
 			<array/>
