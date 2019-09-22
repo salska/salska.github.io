@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.emetrix.biz/index.html</loc>
+		<lastmod>2019-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.emetrix.biz/about/about.html</loc>
+		<lastmod>2019-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.emetrix.biz/work/index.html</loc>
+		<lastmod>2019-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.emetrix.biz/news/news.html</loc>
+		<lastmod>2019-09-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-april-2014.html</loc>
+		<lastmod>2019-09-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-november-2017.html</loc>
+		<lastmod>2019-09-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-december-2018.html</loc>
+		<lastmod>2019-09-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-october-2017.html</loc>
+		<lastmod>2019-09-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.emetrix.biz/news/files/archive-september-2019.html</loc>
+		<lastmod>2019-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.emetrix.biz/contact/contact.html</loc>
+		<lastmod>2019-09-22</lastmod>
 	</url>
 </urlset>
