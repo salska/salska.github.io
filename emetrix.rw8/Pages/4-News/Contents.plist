@@ -37,7 +37,7 @@
 					<key>file:///Users/sal/Downloads/salska.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-09-22T13:35:29Z</date>
+						<date>2019-09-22T13:52:20Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -76,11 +76,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								fvkAQKGvTFaq
-								VwbBf6TaqQ==
+								ET+BA5K9KYr0
+								Iu+IrT5S2w==
 								</data>
 								<key>Size</key>
-								<integer>8767</integer>
+								<integer>8775</integer>
 							</dict>
 							<key>files/ba7b370f30657cfc6dae614a1b4cdf59-3.html</key>
 							<dict>
@@ -106,21 +106,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								D0B+9pGdWpfs
-								ZUN4Fx+98Q==
+								tCBi5WqT5SOy
+								fFYserjKIQ==
 								</data>
 								<key>Size</key>
-								<integer>8912</integer>
+								<integer>8916</integer>
 							</dict>
 							<key>files/category-camunda.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								/2WzjZjerSb0
-								UW2PNtMDfQ==
+								8R5UEpWSJbCC
+								74AWHkFhxw==
 								</data>
 								<key>Size</key>
-								<integer>9125</integer>
+								<integer>9129</integer>
 							</dict>
 							<key>files/category-healthcare.html</key>
 							<dict>
@@ -146,11 +146,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								xFDAS9bsv0w0
-								CIqpMzpnaw==
+								An8nDDjqYpR5
+								41lHzCDcWQ==
 								</data>
 								<key>Size</key>
-								<integer>4352</integer>
+								<integer>4357</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
@@ -186,31 +186,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5uHBHfvopS1+
-								sTOVysB/jw==
+								YezNApAfP0SS
+								jCeg+VvQ5w==
 								</data>
 								<key>Size</key>
-								<integer>12535</integer>
+								<integer>12539</integer>
 							</dict>
 							<key>files/tag-compliance.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								HhUYjXD5ADcp
-								CjNzlzleBQ==
+								+USNinKFgck1
+								1AbprpXkLg==
 								</data>
 								<key>Size</key>
-								<integer>8275</integer>
+								<integer>8279</integer>
 							</dict>
 							<key>files/tag-data-migration.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								7zOAaF6z1Zgg
-								hWTz7ImQ6A==
+								c2JIoZovgPP2
+								KchsaVVxxw==
 								</data>
 								<key>Size</key>
-								<integer>10462</integer>
+								<integer>10466</integer>
 							</dict>
 							<key>files/tag-digital.html</key>
 							<dict>
@@ -226,21 +226,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								LCD3r0lu0cZ1
-								zaR0QCCUBw==
+								MQ8aiLzUUcwb
+								dbAQTaRncw==
 								</data>
 								<key>Size</key>
-								<integer>8287</integer>
+								<integer>8291</integer>
 							</dict>
 							<key>files/tag-regulatory.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								d0aqGCjMq0Un
-								dijxOS3tDA==
+								gqzbUpPDBrT1
+								e+ChF1gYBQ==
 								</data>
 								<key>Size</key>
-								<integer>8275</integer>
+								<integer>8279</integer>
 							</dict>
 							<key>files/tag-security.html</key>
 							<dict>
@@ -276,11 +276,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								OeJliuxtArAo
-								lrZ3adCD6Q==
+								8ToZY0U/kUrZ
+								yKY3yc31Fw==
 								</data>
 								<key>Size</key>
-								<integer>12539</integer>
+								<integer>12543</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
