@@ -7,7 +7,7 @@ title: About
 hello world!
 ```
 
-My name is Sal Kabay and I'm based in Edinburgh. I own eMetrix Consulting which I use to offer management consultancy services to my clients.
+My name really is Sal Kabay and I'm based in Edinburgh. I own eMetrix Consulting which I use to offer management consultancy services to my clients.
 
 I have a PhD in Engineering and enjoy applying technology to solve business problems. 
 
