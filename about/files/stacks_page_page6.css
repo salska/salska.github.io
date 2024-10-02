@@ -1,36 +1,31 @@
 
-#stacks_in_2_page6 {
+#stacks_in_2 {
 	margin: 40px 0px 40px 0px;
 }
 
-#stacks_in_3_page6 {
+#stacks_in_3 {
 	font-size: 168%;
 	font-weight: bold;
 }
-#stacks_in_102_page6>.s3_row {
+#stacks_in_102>.s3_row {
 	margin: 0 -10px;
 }
 
-#stacks_in_102_page6>.s3_row>.s3_column_left {
+#stacks_in_102>.s3_row>.s3_column_left {
 	width: 33.33%;
 }
 
-#stacks_in_102_page6>.s3_row>.s3_column_center {
+#stacks_in_102>.s3_row>.s3_column_center {
 	width: 33.339996%;
 }
 
-#stacks_in_102_page6>.s3_row>.s3_column_right {
+#stacks_in_102>.s3_row>.s3_column_right {
 	width: 33.33%;
 }
 
-
-
-
-#stacks_in_102_page6>.s3_row>.s3_column {
+#stacks_in_102>.s3_row>.s3_column {
 	padding: 0 10px;
 }
-
-
 
 
 
@@ -43,7 +38,6 @@
 
 
 
-
 }
 
 
@@ -51,10 +45,10 @@
 @media only screen and (max-width: 400px) {
 
 
-	#stacks_in_102_page6>.s3_row  {
+	#stacks_in_102>.s3_row  {
 		margin: -10px 0;
 	}
-	#stacks_in_102_page6>.s3_row>.s3_column {
+	#stacks_in_102>.s3_row>.s3_column {
 		padding: 10px 0;
 		width:100%;
 	}
@@ -65,30 +59,28 @@
 
 
 
-
-
-#stacks_in_102_page6 {
+#stacks_in_102 {
 	margin: 0px 0px 40px 0px;
 }
 
-#stacks_in_18_page6 {
+#stacks_in_18 {
 	background-color: rgba(15, 128, 255, 1.00);
 	padding:  8px;
 }
 
-#stacks_in_28_page6 {
+#stacks_in_28 {
 	padding:  20px;
 }
 
-#stacks_in_29_page6 {
+#stacks_in_29 {
 	font-size: 168%;
 	font-weight: bold;
 }
-#stacks_in_73_page6>.s3_row {
+#stacks_in_73>.s3_row {
 	margin: 0 -10px;
 }
 
-#stacks_in_73_page6>.s3_row>.s3_column {
+#stacks_in_73>.s3_row>.s3_column {
 	padding: 0 10px;
 }
 
@@ -107,10 +99,10 @@
 
 
 
-	#stacks_in_73_page6>.s3_row  {
+	#stacks_in_73>.s3_row  {
 		margin: -10px -10px;
 	}
-	#stacks_in_73_page6>.s3_row>.s3_column {
+	#stacks_in_73>.s3_row>.s3_column {
 		padding: 10px 10px;
 		width:50%;
 	}
@@ -124,10 +116,10 @@
 @media only screen and (max-width: 400px) {
 
 
-	#stacks_in_73_page6>.s3_row  {
+	#stacks_in_73>.s3_row  {
 		margin: -10px 0;
 	}
-	#stacks_in_73_page6>.s3_row>.s3_column {
+	#stacks_in_73>.s3_row>.s3_column {
 		padding: 10px 0;
 		width:100%;
 	}
@@ -143,17 +135,17 @@
 
   
 
-#stacks_in_78_page6 {
+#stacks_in_78 {
 	border: solid rgba(15, 128, 255, 1.00);
 	border-width: 0px 0px 1px 0px;
 }
 
-#stacks_in_86_page6 {
+#stacks_in_86 {
 	border: solid rgba(15, 128, 255, 1.00);
 	border-width: 0px 0px 1px 0px;
 }
 
-#stacks_in_84_page6 {
+#stacks_in_84 {
 	border: solid rgba(15, 128, 255, 1.00);
 	border-width: 0px 0px 1px 0px;
 }

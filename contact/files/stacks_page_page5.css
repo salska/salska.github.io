@@ -1,9 +1,9 @@
 
-#stacks_out_10_page5 {
-	width: 66%;
-}
-
-#stacks_in_10_page5 {
+#stacks_in_10 {
 	border: solid rgba(179, 179, 179, 1.00);
 	border-width:  1px;
+}
+
+#stacks_out_10 {
+	width: 66%;
 }
