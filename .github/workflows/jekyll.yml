@@ -1,26 +1,26 @@
-name: Jekyll site CI
+name: Jekyll Site CI
 
 on:
   push:
     branches:
-      - master  # or 'main' depending on your branch name
+      - main  # or master depending on your branch name
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '2.7' # or whatever version your project uses
-    - name: Install dependencies
-      run: bundle install
-    - name: Build the site
-      run: bundle exec jekyll build --trace
-    - name: Upload site as artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: site
-        path: _site
+      - uses: actions/checkout@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'  # Use the version your Jekyll site requires
+      - name: Install dependencies
+        run: bundle install
+      - name: Build the site
+        run: bundle exec jekyll build --trace
+      - name: Upload site as artifact
+        uses: actions/upload-artifact@v3  # Updated version to v3
+        with:
+          name: site
+          path: _site
