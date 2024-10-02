@@ -1,0 +1,26 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches:
+      - master  # or 'main' depending on your branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.7' # or whatever version your project uses
+    - name: Install dependencies
+      run: bundle install
+    - name: Build the site
+      run: bundle exec jekyll build --trace
+    - name: Upload site as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: site
+        path: _site
