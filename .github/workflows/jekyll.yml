@@ -20,7 +20,7 @@ jobs:
       - name: Build the site
         run: bundle exec jekyll build --trace
       - name: Upload site as artifact
-        uses: actions/upload-artifact@v3  # Updated version to v3
+        uses: actions/upload-artifact@v3
         with:
           name: site
           path: _site
