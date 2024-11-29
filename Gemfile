@@ -23,7 +23,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
 gem 'jekyll-paginate', group: :jekyll_plugins
-gem 'redcarpet', '~> 3.2.3'
+gem 'redcarpet', '~> 3.5.1'
 gem 'jekyll-gist'
 gem 'pygments.rb'
 
